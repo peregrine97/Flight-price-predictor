@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Flight Price | FlyPrice</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .back-button {
+            display: inline-block;
+            background: white;
+            color: #4a54e1;
+            padding: 12px 25px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .back-button:hover {
+            background: transparent;
+            color: white;
+            border-color: white;
+        }
+        
+        .title {
+            color: white;
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        
+        .subtitle {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .prediction-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: slideUp 0.8s ease-out;
+        }
+        
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .form-group label {
+            color: #333;
+            font-weight: 600;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+        
+        .form-group select,
+        .form-group input {
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s ease;
+            background: white;
+        }
+        
+        .form-group select:focus,
+        .form-group input:focus {
+            outline: none;
+            border-color: #4a54e1;
+            box-shadow: 0 0 0 3px rgba(74, 84, 225, 0.1);
+        }
+        
+        .form-group select:hover,
+        .form-group input:hover {
+            border-color: #4a54e1;
+        }
+        
+        .predict-button {
+            background: linear-gradient(to right, #4a54e1, #15a1c7);
+            color: white;
+            border: none;
+            padding: 18px 40px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: block;
+            margin: 40px auto 0;
+            width: 100%;
+            max-width: 300px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 10px 20px rgba(74, 84, 225, 0.3);
+        }
+        
+        .predict-button:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(74, 84, 225, 0.4);
+        }
+        
+        .predict-button:active {
+            transform: translateY(-2px);
+        }
+        
+        .result-card {
+            background: linear-gradient(135deg, #4a54e1, #15a1c7);
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            margin-top: 40px;
+            text-align: center;
+            display: none;
+            animation: fadeIn 0.8s ease-out;
+        }
+        
+        .result-card.show {
+            display: block;
+        }
+        
+        .result-title {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+        
+        .predicted-price {
+            font-size: 4rem;
+            font-weight: 800;
+            margin: 20px 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        
+        .result-message {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        
+        .price-unit {
+            font-size: 1.5rem;
+            vertical-align: super;
+        }
+        
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .prediction-card {
+                padding: 30px 20px;
+            }
+            
+            .title {
+                font-size: 2.2rem;
+            }
+            
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .predicted-price {
+                font-size: 3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="/" class="back-button">← Back to Home</a>
+            <h1 class="title">Flight Price Predictor</h1>
+            <p class="subtitle">Fill in your flight details below to get an instant price prediction</p>
+        </div>
+        
+        <div class="prediction-card">
+            <form action="/predictdata" method="POST" id="predictionForm">
+                <div class="form-grid">
+                    <!-- Airline -->
+                    <div class="form-group">
+                        <label for="Airline">✈️ Airline</label>
+                        <select id="Airline" name="Airline" required>
+                            <option value="">Select Airline</option>
+                            <option value="Jet Airways">Jet Airways</option>
+                            <option value="IndiGo">IndiGo</option>
+                            <option value="Air India">Air India</option>
+                            <option value="Multiple carriers">Multiple carriers</option>
+                            <option value="SpiceJet">SpiceJet</option>
+                            <option value="Vistara">Vistara</option>
+                            <option value="Air Asia">Air Asia</option>
+                            <option value="GoAir">GoAir</option>
+                            <option value="Multiple carriers Premium economy">Multiple carriers Premium economy</option>
+                            <option value="Jet Airways Business">Jet Airways Business</option>
+                            <option value="Vistara Premium economy">Vistara Premium economy</option>
+                            <option value="Trujet">Trujet</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Source -->
+                    <div class="form-group">
+                        <label for="Source">📍 Departure City</label>
+                        <select id="Source" name="Source" required>
+                            <option value="">Select Source City</option>
+                            <option value="Delhi">Delhi</option>
+                            <option value="Kolkata">Kolkata</option>
+                            <option value="Mumbai">Mumbai</option>
+                            <option value="Chennai">Chennai</option>
+                            <option value="Bangalore">Bangalore</option>
+                            <option value="Hyderabad">Hyderabad</option>
+                            <option value="Cochin">Cochin</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Destination -->
+                    <div class="form-group">
+                        <label for="Destination">🎯 Destination City</label>
+                        <select id="Destination" name="Destination" required>
+                            <option value="">Select Destination City</option>
+                            <option value="Cochin">Cochin</option>
+                            <option value="Delhi">Delhi</option>
+                            <option value="New Delhi">New Delhi</option>
+                            <option value="Hyderabad">Hyderabad</option>
+                            <option value="Kolkata">Kolkata</option>
+                            <option value="Bangalore">Bangalore</option>
+                            <option value="Mumbai">Mumbai</option>
+                            <option value="Chennai">Chennai</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Duration -->
+                    <div class="form-group">
+                        <label for="Duration">⏰ Flight Duration (minutes)</label>
+                        <input type="number" id="Duration" name="Duration" min="0" max="1000" required placeholder="Enter flight duration">
+                    </div>
+                    
+                    <!-- Total Stops -->
+                    <div class="form-group">
+                        <label for="Total_Stops">🛑 Total Stops</label>
+                        <select id="Total_Stops" name="Total_Stops" required>
+                            <option value="">Select Number of Stops</option>
+                            <option value="0">Non-stop</option>
+                            <option value="1">1 Stop</option>
+                            <option value="2">2 Stops</option>
+                            <option value="3">3 Stops</option>
+                            <option value="4">4 Stops</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Departure Period -->
+                    <div class="form-group">
+                        <label for="Dep_Period">🌅 Departure Time</label>
+                        <select id="Dep_Period" name="Dep_Period" required>
+                            <option value="">Select Departure Time</option>
+                            <option value="Early_Morning">Early Morning (12AM-6AM)</option>
+                            <option value="Morning">Morning (6AM-12PM)</option>
+                            <option value="Afternoon">Afternoon (12PM-6PM)</option>
+                            <option value="Evening">Evening (6PM-12AM)</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Month -->
+                    <div class="form-group">
+                        <label for="Month">📅 Month of Travel</label>
+                        <select id="Month" name="Month" required>
+                            <option value="">Select Month</option>
+                            <option value="1">January</option>
+                            <option value="2">February</option>
+                            <option value="3">March</option>
+                            <option value="4">April</option>
+                            <option value="5">May</option>
+                            <option value="6">June</option>
+                            <option value="7">July</option>
+                            <option value="8">August</option>
+                            <option value="9">September</option>
+                            <option value="10">October</option>
+                            <option value="11">November</option>
+                            <option value="12">December</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <button type="submit" class="predict-button">Predict Flight Price</button>
+            </form>
+            
+            {% if results %}
+            <div class="result-card show" id="resultCard">
+                <h2 class="result-title">🎉 Predicted Flight Price</h2>
+                <div class="predicted-price">₹ {{ "%.2f"|format(results) }}</div>
+                <p class="result-message">
+                    Based on your selected flight details, this is the predicted fare. 
+                    This estimate considers current market trends, airline pricing strategies, 
+                    seasonal factors, and route popularity.
+                </p>
+                <p style="margin-top: 20px; opacity: 0.8;">
+                    💡 <em>Tip: Prices may vary based on booking time and seat availability</em>
+                </p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
