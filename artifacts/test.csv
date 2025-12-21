@@ -1,0 +1,2138 @@
+Airline,Source,Destination,Duration,Total_Stops,Price,Dep_Period,Month
+Air India,Kolkata,Banglore,19.416666666666668,2.0,12744,Morning,6
+Jet Airways,Banglore,New Delhi,24.25,1.0,22270,Morning,3
+Jet Airways,Kolkata,Banglore,5.75,1.0,13364,Noon,4
+Jet Airways,Delhi,Cochin,3.25,0.0,9564,Noon,6
+Jet Airways,Banglore,Delhi,2.75,0.0,4544,Morning,4
+IndiGo,Mumbai,Hyderabad,1.5,0.0,3175,Evening,3
+Multiple carriers,Delhi,Cochin,10.75,1.0,8099,Morning,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,4
+Air India,Delhi,Cochin,24.83333333333333,2.0,13591,Morning,5
+Vistara,Banglore,New Delhi,2.6666666666666665,0.0,8028,Noon,3
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,6
+Multiple carriers,Delhi,Cochin,12.0,1.0,8143,Morning,6
+SpiceJet,Chennai,Kolkata,2.25,0.0,3597,Morning,5
+Jet Airways,Delhi,Cochin,23.58333333333333,1.0,10262,Noon,6
+Multiple carriers,Delhi,Cochin,14.166666666666666,2.0,8938,Morning,3
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,6093,Noon,6
+IndiGo,Delhi,Cochin,5.75,1.0,5775,Evening,6
+IndiGo,Delhi,Cochin,4.916666666666667,1.0,6842,Morning,6
+Jet Airways,Kolkata,Banglore,26.25,1.0,8529,Noon,6
+Multiple carriers,Delhi,Cochin,7.75,1.0,9140,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,8016,Noon,6
+Air India,Kolkata,Banglore,17.416666666666668,2.0,12723,Morning,6
+Multiple carriers,Delhi,Cochin,12.75,1.0,9646,Morning,6
+SpiceJet,Kolkata,Banglore,5.666666666666667,1.0,6197,Noon,3
+Air India,Delhi,Cochin,23.5,2.0,10178,Evening,6
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,5694,Night,3
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3873,Morning,4
+Air India,Banglore,New Delhi,30.0,2.0,12725,Evening,3
+Multiple carriers,Delhi,Cochin,9.583333333333334,1.0,14067,Night,5
+Air India,Kolkata,Banglore,27.0,2.0,14508,Morning,5
+GoAir,Delhi,Cochin,9.0,1.0,5135,Morning,4
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3873,Morning,6
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,12898,Night,5
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,4332,Evening,3
+SpiceJet,Banglore,Delhi,2.6666666666666665,0.0,3971,Morning,4
+Air India,Banglore,New Delhi,8.0,1.0,5932,Noon,3
+Jet Airways,Kolkata,Banglore,27.666666666666668,1.0,7064,Evening,4
+Multiple carriers,Delhi,Cochin,7.0,1.0,13727,Noon,5
+Vistara,Delhi,Cochin,3.1666666666666665,0.0,6216,Morning,5
+Multiple carriers,Delhi,Cochin,6.5,1.0,7363,Evening,4
+Multiple carriers,Delhi,Cochin,12.333333333333334,1.0,9315,Morning,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Night,4
+Jet Airways,Delhi,Cochin,17.333333333333332,1.0,12898,Evening,5
+Jet Airways,Kolkata,Banglore,27.33333333333333,1.0,9663,Evening,5
+Air India,Kolkata,Banglore,13.416666666666666,1.0,10203,Morning,5
+IndiGo,Delhi,Cochin,4.833333333333333,1.0,7060,Noon,6
+Jet Airways,Delhi,Cochin,22.75,2.0,14861,Morning,3
+Air India,Delhi,Cochin,6.25,1.0,8372,Noon,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2753,Morning,6
+Jet Airways,Banglore,New Delhi,18.666666666666668,1.0,11087,Evening,3
+Jet Airways,Delhi,Cochin,7.083333333333333,2.0,16274,Morning,5
+Vistara,Kolkata,Banglore,26.58333333333333,1.0,11682,Evening,3
+Jet Airways,Delhi,Cochin,28.0,1.0,14714,Noon,6
+Jet Airways,Banglore,New Delhi,13.416666666666666,1.0,27992,Morning,3
+SpiceJet,Banglore,New Delhi,2.833333333333333,0.0,4273,Morning,3
+Jet Airways,Delhi,Cochin,7.083333333333333,2.0,15544,Morning,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Noon,5
+Jet Airways,Delhi,Cochin,8.666666666666666,1.0,10262,Evening,6
+Jet Airways,Delhi,Cochin,17.666666666666668,2.0,17282,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+SpiceJet,Kolkata,Banglore,7.25,1.0,9736,Noon,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,4
+Jet Airways,Delhi,Cochin,15.0,2.0,16704,Noon,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2227,Noon,5
+IndiGo,Kolkata,Banglore,4.666666666666667,1.0,7476,Noon,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Night,6
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,13014,Morning,6
+Jet Airways,Delhi,Cochin,34.0,2.0,12347,Evening,3
+Jet Airways,Banglore,New Delhi,21.83333333333333,1.0,25735,Noon,3
+SpiceJet,Chennai,Kolkata,2.583333333333333,0.0,3807,Morning,3
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4174,Evening,4
+Jet Airways,Kolkata,Banglore,28.08333333333333,1.0,13067,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Morning,4
+Jet Airways,Kolkata,Banglore,7.25,1.0,7064,Morning,5
+Vistara,Delhi,Cochin,3.1666666666666665,0.0,6216,Noon,5
+Jet Airways,Delhi,Cochin,22.58333333333333,1.0,10262,Noon,6
+Jet Airways,Delhi,Cochin,13.833333333333334,2.0,13376,Noon,6
+Multiple carriers,Delhi,Cochin,15.25,1.0,6916,Morning,3
+IndiGo,Delhi,Cochin,5.916666666666667,1.0,13790,Night,3
+Air India,Banglore,Delhi,2.75,0.0,6961,Evening,6
+Air India,Kolkata,Banglore,2.5,0.0,5510,Noon,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4591,Morning,4
+Jet Airways,Delhi,Cochin,13.416666666666666,1.0,12373,Noon,5
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,15129,Evening,5
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,5
+Jet Airways,Kolkata,Banglore,6.083333333333333,1.0,10844,Evening,5
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,7663,Morning,3
+Jet Airways,Banglore,New Delhi,6.25,1.0,9134,Morning,3
+IndiGo,Banglore,New Delhi,2.75,0.0,6144,Night,3
+Air India,Delhi,Cochin,26.666666666666668,2.0,10756,Morning,6
+Air India,Delhi,Cochin,23.5,2.0,10178,Evening,5
+IndiGo,Kolkata,Banglore,5.25,1.0,6534,Evening,5
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3873,Night,6
+Multiple carriers,Delhi,Cochin,7.25,1.0,15078,Evening,5
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,7514,Morning,3
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,3540,Morning,5
+Jet Airways,Kolkata,Banglore,7.25,1.0,8355,Morning,5
+IndiGo,Kolkata,Banglore,2.5,0.0,4174,Noon,4
+IndiGo,Banglore,Delhi,3.0,0.0,4823,Evening,5
+Multiple carriers,Delhi,Cochin,8.166666666666666,1.0,12616,Evening,3
+SpiceJet,Banglore,Delhi,2.6666666666666665,0.0,3311,Morning,5
+Jet Airways,Delhi,Cochin,8.25,2.0,20904,Evening,3
+Jet Airways,Kolkata,Banglore,12.25,1.0,10844,Evening,5
+Jet Airways,Banglore,New Delhi,7.25,1.0,9134,Morning,3
+Multiple carriers,Delhi,Cochin,7.0,1.0,13587,Noon,6
+Jet Airways,Kolkata,Banglore,25.75,1.0,10844,Evening,5
+Air India,Banglore,New Delhi,10.916666666666666,2.0,11213,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4423,Morning,4
+Jet Airways,Delhi,Cochin,12.916666666666666,1.0,14053,Morning,3
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,4332,Noon,5
+IndiGo,Delhi,Cochin,7.083333333333333,1.0,7160,Morning,4
+Air India,Delhi,Cochin,27.33333333333333,1.0,7690,Morning,6
+Jet Airways,Banglore,New Delhi,8.833333333333334,1.0,26890,Night,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,6
+Jet Airways,Banglore,New Delhi,23.33333333333333,1.0,11087,Morning,3
+Multiple carriers,Delhi,Cochin,7.0,1.0,7153,Noon,5
+Multiple carriers,Delhi,Cochin,6.5,1.0,7670,Evening,5
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,6
+Jet Airways,Delhi,Cochin,20.58333333333333,1.0,5406,Evening,4
+Air India,Delhi,Cochin,3.0,0.0,6934,Noon,5
+Jet Airways,Kolkata,Banglore,14.0,1.0,12121,Morning,5
+Air Asia,Delhi,Cochin,14.5,1.0,6152,Morning,6
+Jet Airways,Kolkata,Banglore,12.333333333333334,1.0,14781,Morning,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14781,Morning,5
+Air India,Delhi,Cochin,26.33333333333333,2.0,13381,Evening,6
+Vistara,Delhi,Cochin,3.1666666666666665,0.0,6216,Morning,4
+Air India,Delhi,Cochin,26.5,1.0,8907,Evening,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,5
+Jet Airways,Delhi,Cochin,18.75,2.0,15129,Morning,5
+Air Asia,Kolkata,Banglore,11.833333333333334,1.0,5192,Morning,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Evening,5
+Multiple carriers,Delhi,Cochin,8.0,1.0,13377,Evening,5
+Jet Airways,Delhi,Cochin,3.25,0.0,4466,Morning,6
+Air India,Kolkata,Banglore,9.083333333333334,1.0,8891,Morning,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,3847,Evening,3
+Air India,Delhi,Cochin,25.58333333333333,1.0,12677,Morning,3
+Air India,Delhi,Cochin,26.33333333333333,2.0,13801,Evening,6
+SpiceJet,Delhi,Cochin,5.166666666666667,1.0,9748,Morning,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3100,Evening,5
+Jet Airways Business,Banglore,New Delhi,6.666666666666667,1.0,62427,Morning,3
+SpiceJet,Chennai,Kolkata,2.25,0.0,3597,Morning,5
+Jet Airways,Banglore,Delhi,3.0,0.0,4544,Morning,4
+Multiple carriers,Delhi,Cochin,10.0,1.0,6878,Noon,5
+Jet Airways,Kolkata,Banglore,9.75,1.0,13731,Evening,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14571,Evening,5
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,5694,Noon,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,8040,Morning,6
+Jet Airways,Kolkata,Banglore,14.0,1.0,12692,Morning,6
+Jet Airways,Delhi,Cochin,22.08333333333333,1.0,14714,Evening,6
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,8040,Morning,6
+Multiple carriers,Delhi,Cochin,9.5,1.0,13587,Noon,6
+Air Asia,Kolkata,Banglore,2.5,0.0,3807,Night,4
+Multiple carriers,Delhi,Cochin,12.333333333333334,1.0,10877,Morning,6
+Jet Airways,Banglore,New Delhi,16.583333333333332,1.0,17261,Evening,3
+IndiGo,Banglore,New Delhi,2.9166666666666665,0.0,8033,Evening,3
+Jet Airways,Delhi,Cochin,13.5,2.0,13014,Morning,6
+Jet Airways,Delhi,Cochin,42.083333333333336,2.0,11664,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3359,Night,6
+IndiGo,Kolkata,Banglore,5.416666666666667,1.0,6218,Evening,5
+Air India,Delhi,Cochin,14.583333333333334,1.0,8991,Evening,6
+Air India,Delhi,Cochin,23.5,2.0,10651,Evening,6
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5769,Noon,6
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,6144,Night,3
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,10262,Night,6
+Jet Airways,Kolkata,Banglore,22.166666666666668,1.0,13731,Morning,6
+Air India,Delhi,Cochin,12.75,1.0,4487,Evening,4
+Jet Airways,Delhi,Cochin,18.75,2.0,13014,Morning,6
+Jet Airways,Delhi,Cochin,23.25,2.0,9412,Morning,3
+Jet Airways,Kolkata,Banglore,17.083333333333332,1.0,14571,Morning,6
+IndiGo,Delhi,Cochin,6.333333333333333,1.0,6938,Evening,6
+IndiGo,Delhi,Cochin,5.0,1.0,6232,Evening,3
+Air India,Kolkata,Banglore,37.41666666666666,2.0,14410,Morning,3
+Multiple carriers,Delhi,Cochin,8.416666666666666,1.0,10877,Morning,6
+Jet Airways,Delhi,Cochin,21.33333333333333,1.0,17234,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Evening,6
+Jet Airways,Delhi,Cochin,10.0,2.0,14237,Evening,6
+Air Asia,Banglore,New Delhi,2.833333333333333,0.0,7074,Morning,3
+IndiGo,Delhi,Cochin,8.166666666666666,1.0,6938,Noon,5
+Multiple carriers,Delhi,Cochin,9.25,1.0,9646,Noon,6
+Jet Airways,Kolkata,Banglore,15.166666666666666,1.0,8586,Evening,5
+IndiGo,Delhi,Cochin,5.416666666666667,1.0,5636,Night,4
+Air India,Chennai,Kolkata,2.25,0.0,10810,Noon,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,3419,Night,5
+Jet Airways,Delhi,Cochin,12.416666666666666,1.0,14714,Evening,6
+Jet Airways,Delhi,Cochin,21.666666666666668,2.0,10919,Morning,6
+Multiple carriers,Delhi,Cochin,12.5,1.0,13377,Noon,6
+Jet Airways,Kolkata,Banglore,16.75,1.0,8066,Evening,5
+GoAir,Kolkata,Banglore,7.583333333333333,1.0,7831,Evening,5
+Air India,Delhi,Cochin,9.25,1.0,12029,Morning,5
+Multiple carriers,Delhi,Cochin,11.5,1.0,10877,Morning,6
+Air India,Delhi,Cochin,26.0,2.0,12199,Evening,6
+Air India,Banglore,New Delhi,6.416666666666667,1.0,10924,Morning,3
+Air India,Kolkata,Banglore,13.416666666666666,2.0,15957,Morning,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+SpiceJet,Kolkata,Banglore,2.4166666666666665,0.0,3873,Morning,6
+Air India,Mumbai,Hyderabad,22.416666666666668,1.0,10943,Evening,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Morning,6
+Air India,Delhi,Cochin,16.083333333333332,1.0,5117,Evening,3
+Jet Airways,Delhi,Cochin,23.25,2.0,9412,Morning,3
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,9663,Evening,5
+Jet Airways,Kolkata,Banglore,5.75,1.0,10844,Noon,5
+Air India,Mumbai,Hyderabad,33.25,2.0,14219,Morning,3
+Vistara,Chennai,Kolkata,2.333333333333333,0.0,11982,Evening,5
+Jet Airways,Delhi,Cochin,13.5,2.0,10368,Morning,6
+Multiple carriers,Delhi,Cochin,7.75,1.0,5797,Evening,6
+Jet Airways,Kolkata,Banglore,26.25,1.0,10844,Noon,5
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,4744,Night,3
+Jet Airways,Kolkata,Banglore,26.75,1.0,11134,Evening,3
+Air India,Kolkata,Banglore,2.5,0.0,5510,Noon,5
+Jet Airways,Delhi,Cochin,20.166666666666668,1.0,10262,Night,6
+SpiceJet,Kolkata,Banglore,5.25,1.0,4649,Noon,5
+Jet Airways,Banglore,New Delhi,14.166666666666666,1.0,11087,Evening,3
+Jet Airways,Delhi,Cochin,11.0,1.0,14924,Morning,6
+Multiple carriers,Delhi,Cochin,9.0,1.0,12507,Morning,5
+Air Asia,Delhi,Cochin,13.833333333333334,1.0,6752,Evening,6
+SpiceJet,Chennai,Kolkata,2.25,0.0,3597,Morning,6
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Morning,4
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,11848,Night,3
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Morning,5
+Multiple carriers,Delhi,Cochin,10.75,1.0,7887,Morning,5
+Multiple carriers,Delhi,Cochin,15.5,1.0,13377,Morning,6
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+Jet Airways,Kolkata,Banglore,16.833333333333332,1.0,9663,Evening,5
+Multiple carriers,Delhi,Cochin,8.5,1.0,7198,Evening,6
+IndiGo,Banglore,Delhi,3.0,0.0,3943,Evening,6
+Air India,Delhi,Cochin,12.75,1.0,5117,Evening,3
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2017,Noon,6
+Air India,Delhi,Cochin,21.25,2.0,10441,Night,6
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Morning,4
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4591,Night,4
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Noon,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4050,Morning,6
+Multiple carriers,Delhi,Cochin,11.5,1.0,10529,Morning,5
+Air India,Kolkata,Banglore,41.333333333333336,2.0,13990,Morning,3
+SpiceJet,Delhi,Cochin,4.5,1.0,5264,Morning,6
+Jet Airways,Delhi,Cochin,21.58333333333333,2.0,13292,Evening,6
+Jet Airways,Delhi,Cochin,5.5,1.0,14714,Morning,6
+Jet Airways,Delhi,Cochin,17.416666666666668,2.0,15129,Evening,5
+Air India,Banglore,New Delhi,14.416666666666666,1.0,6824,Morning,3
+Air India,Delhi,Cochin,9.5,1.0,8907,Noon,6
+Jet Airways,Delhi,Cochin,19.416666666666668,1.0,13843,Morning,3
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,6027,Evening,5
+Multiple carriers,Delhi,Cochin,12.25,1.0,7670,Morning,5
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,5170,Noon,5
+Air India,Delhi,Cochin,5.333333333333333,1.0,7174,Evening,5
+Jet Airways,Delhi,Cochin,21.58333333333333,2.0,10588,Evening,6
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4174,Evening,4
+Jet Airways,Delhi,Cochin,9.166666666666666,1.0,10577,Evening,6
+IndiGo,Delhi,Cochin,3.25,0.0,6015,Noon,4
+IndiGo,Banglore,Delhi,3.0,0.0,3943,Evening,6
+IndiGo,Delhi,Cochin,10.583333333333334,1.0,6674,Noon,6
+IndiGo,Delhi,Cochin,8.583333333333334,1.0,6558,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+SpiceJet,Banglore,Delhi,2.9166666666666665,0.0,3971,Evening,6
+Jet Airways,Mumbai,Hyderabad,20.08333333333333,1.0,19595,Evening,3
+Air India,Delhi,Cochin,14.416666666666666,2.0,8052,Evening,3
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4148,Evening,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,2228,Noon,3
+Jet Airways,Banglore,New Delhi,15.0,1.0,14815,Noon,3
+GoAir,Banglore,New Delhi,4.5,1.0,8352,Noon,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14388,Evening,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4591,Night,4
+IndiGo,Kolkata,Banglore,2.833333333333333,0.0,4148,Morning,3
+Multiple carriers,Delhi,Cochin,6.25,1.0,16108,Noon,6
+Vistara,Banglore,New Delhi,27.75,1.0,10008,Morning,3
+SpiceJet,Delhi,Cochin,6.333333333333333,1.0,6749,Noon,4
+SpiceJet,Kolkata,Banglore,2.6666666666666665,0.0,3815,Morning,3
+Jet Airways,Kolkata,Banglore,9.5,1.0,14571,Noon,6
+Air Asia,Kolkata,Banglore,2.5,0.0,4409,Evening,4
+SpiceJet,Kolkata,Banglore,2.5,0.0,4174,Evening,5
+IndiGo,Banglore,Delhi,3.0,0.0,3943,Evening,5
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,14676,Evening,6
+Jet Airways,Delhi,Cochin,18.33333333333333,1.0,12373,Evening,5
+Jet Airways,Kolkata,Banglore,21.416666666666668,1.0,10844,Evening,6
+Jet Airways,Delhi,Cochin,28.08333333333333,1.0,11848,Night,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Noon,6
+Jet Airways,Kolkata,Banglore,22.75,1.0,13067,Evening,5
+Jet Airways,Delhi,Cochin,15.166666666666666,2.0,13292,Evening,6
+Jet Airways,Kolkata,Banglore,14.416666666666666,1.0,14388,Evening,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,5740,Morning,5
+Jet Airways,Kolkata,Banglore,14.583333333333334,1.0,7594,Noon,6
+Air Asia,Kolkata,Banglore,2.5,0.0,5530,Evening,5
+Air India,Kolkata,Banglore,2.5,0.0,6245,Noon,4
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+Jet Airways,Banglore,New Delhi,12.416666666666666,1.0,11087,Morning,3
+Jet Airways,Kolkata,Banglore,24.75,1.0,7064,Evening,4
+Vistara,Banglore,Delhi,2.583333333333333,0.0,4878,Evening,6
+Multiple carriers,Delhi,Cochin,9.75,1.0,11622,Morning,6
+IndiGo,Delhi,Cochin,13.5,1.0,6093,Morning,6
+Jet Airways,Delhi,Cochin,20.166666666666668,1.0,14714,Night,6
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,11789,Morning,6
+IndiGo,Delhi,Cochin,5.25,1.0,6582,Morning,6
+Air India,Delhi,Cochin,12.75,1.0,12677,Evening,3
+Air India,Delhi,Cochin,23.666666666666668,2.0,10660,Morning,3
+Air India,Delhi,Cochin,26.0,2.0,11972,Evening,6
+Jet Airways,Delhi,Cochin,23.75,1.0,14714,Evening,6
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3873,Night,4
+Air Asia,Delhi,Cochin,11.0,1.0,8327,Evening,3
+Jet Airways,Delhi,Cochin,18.416666666666668,1.0,10262,Morning,6
+Multiple carriers,Delhi,Cochin,7.5,1.0,7198,Evening,6
+Jet Airways,Delhi,Cochin,11.0,1.0,10577,Morning,6
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4460,Evening,4
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4995,Morning,5
+Air India,Banglore,Delhi,2.833333333333333,0.0,5228,Evening,4
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,11627,Night,6
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Morning,6
+Air India,Kolkata,Banglore,16.166666666666668,2.0,14960,Evening,6
+Vistara,Kolkata,Banglore,26.33333333333333,1.0,8452,Evening,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Noon,6
+Jet Airways,Kolkata,Banglore,12.333333333333334,1.0,10844,Morning,5
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,12819,Evening,6
+Air India,Delhi,Cochin,5.333333333333333,1.0,7384,Evening,6
+IndiGo,Delhi,Cochin,8.166666666666666,1.0,6704,Noon,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Night,3
+Air India,Kolkata,Banglore,23.166666666666668,2.0,10151,Noon,6
+Multiple carriers,Delhi,Cochin,9.5,1.0,13587,Noon,6
+IndiGo,Delhi,Cochin,9.5,1.0,7191,Evening,5
+Jet Airways,Delhi,Cochin,16.583333333333332,1.0,12719,Night,3
+Vistara,Kolkata,Banglore,27.33333333333333,1.0,9870,Evening,5
+Vistara,Chennai,Kolkata,2.333333333333333,0.0,11982,Evening,5
+IndiGo,Delhi,Cochin,4.416666666666667,1.0,8258,Morning,3
+Air India,Delhi,Cochin,5.333333333333333,1.0,7384,Evening,6
+Air India,Kolkata,Banglore,19.916666666666668,2.0,9416,Noon,5
+Multiple carriers,Delhi,Cochin,8.416666666666666,1.0,17267,Morning,3
+Air India,Banglore,Delhi,2.75,0.0,5176,Morning,4
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,14151,Evening,5
+Jet Airways,Kolkata,Banglore,17.916666666666668,1.0,10953,Evening,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Noon,4
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,11690,Morning,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14571,Morning,6
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1759,Night,4
+Multiple carriers,Delhi,Cochin,8.75,1.0,12192,Night,6
+Jet Airways,Delhi,Cochin,10.0,1.0,16079,Morning,5
+Multiple carriers,Delhi,Cochin,8.083333333333334,2.0,11560,Noon,3
+Multiple carriers,Delhi,Cochin,12.666666666666666,1.0,7485,Noon,5
+Multiple carriers,Delhi,Cochin,13.0,1.0,29528,Night,3
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,14151,Evening,6
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4435,Evening,3
+Jet Airways,Delhi,Cochin,23.58333333333333,1.0,10262,Noon,6
+Air India,Delhi,Cochin,15.416666666666666,1.0,8669,Night,6
+Jet Airways,Kolkata,Banglore,27.666666666666668,1.0,10844,Evening,5
+SpiceJet,Banglore,New Delhi,7.916666666666667,1.0,7294,Morning,3
+Air India,Delhi,Cochin,7.25,2.0,9601,Noon,5
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,14571,Morning,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Morning,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3873,Evening,5
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,14781,Morning,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Noon,4
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3847,Night,3
+Jet Airways,Delhi,Cochin,10.333333333333334,1.0,18371,Night,6
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,6309,Morning,3
+SpiceJet,Banglore,Delhi,2.833333333333333,0.0,3573,Morning,5
+Vistara,Banglore,Delhi,2.583333333333333,0.0,4878,Evening,5
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3809,Evening,5
+Multiple carriers,Delhi,Cochin,11.333333333333334,1.0,15411,Morning,3
+Air India,Kolkata,Banglore,28.33333333333333,1.0,7662,Evening,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2753,Morning,6
+Jet Airways,Kolkata,Banglore,18.0,1.0,9314,Evening,5
+Jet Airways,Delhi,Cochin,22.08333333333333,2.0,9296,Morning,3
+Jet Airways,Kolkata,Banglore,11.5,1.0,14151,Morning,6
+Jet Airways,Kolkata,Banglore,25.75,1.0,7064,Morning,4
+Jet Airways,Kolkata,Banglore,8.416666666666666,1.0,13067,Morning,5
+Multiple carriers,Delhi,Cochin,15.5,1.0,9508,Morning,5
+Air India,Kolkata,Banglore,20.916666666666668,2.0,15532,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4878,Morning,6
+Jet Airways,Kolkata,Banglore,11.416666666666666,1.0,9899,Morning,6
+Air India,Banglore,New Delhi,12.416666666666666,1.0,11003,Morning,3
+Jet Airways,Delhi,Cochin,16.916666666666668,1.0,15764,Noon,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Night,6
+Jet Airways,Kolkata,Banglore,20.0,1.0,9663,Noon,5
+Jet Airways,Banglore,New Delhi,22.5,1.0,25735,Night,3
+Jet Airways,Delhi,Cochin,5.5,1.0,16289,Morning,5
+Jet Airways,Delhi,Cochin,13.5,2.0,12819,Night,6
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,7155,Morning,6
+Jet Airways,Delhi,Cochin,25.5,1.0,12898,Evening,5
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,5
+Jet Airways,Delhi,Cochin,21.166666666666668,1.0,12373,Evening,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Evening,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,5224,Noon,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,4326,Morning,3
+Air India,Delhi,Cochin,26.33333333333333,2.0,10975,Morning,5
+Air India,Mumbai,Hyderabad,37.41666666666666,2.0,12119,Morning,3
+Multiple carriers,Delhi,Cochin,8.916666666666666,1.0,8266,Morning,6
+IndiGo,Delhi,Cochin,5.0,1.0,5073,Morning,4
+Multiple carriers,Delhi,Cochin,7.5,1.0,6673,Morning,3
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,6790,Morning,3
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,2227,Evening,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,10539,Evening,6
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,4377,Morning,3
+Air Asia,Delhi,Cochin,14.5,1.0,6152,Morning,5
+Jet Airways,Kolkata,Banglore,5.75,1.0,14781,Noon,5
+Air India,Delhi,Cochin,8.333333333333334,2.0,11753,Morning,6
+Multiple carriers,Delhi,Cochin,9.083333333333334,1.0,9856,Noon,3
+Multiple carriers,Delhi,Cochin,8.5,1.0,8283,Evening,5
+Air India,Kolkata,Banglore,24.0,1.0,6241,Noon,3
+IndiGo,Banglore,New Delhi,4.916666666666667,1.0,7166,Noon,3
+Jet Airways,Kolkata,Banglore,24.666666666666668,1.0,14151,Evening,5
+Air India,Banglore,New Delhi,11.083333333333334,2.0,11948,Noon,3
+Jet Airways,Delhi,Cochin,24.75,1.0,12373,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,4
+IndiGo,Kolkata,Banglore,5.416666666666667,1.0,6218,Evening,5
+Air India,Banglore,Delhi,2.833333333333333,0.0,5228,Evening,5
+Jet Airways,Kolkata,Banglore,7.5,1.0,14178,Evening,5
+Jet Airways,Delhi,Cochin,21.166666666666668,1.0,14714,Evening,6
+Jet Airways,Delhi,Cochin,7.5,1.0,14714,Noon,6
+Jet Airways,Kolkata,Banglore,28.08333333333333,1.0,14151,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Noon,5
+IndiGo,Delhi,Cochin,3.083333333333333,0.0,7673,Noon,3
+Multiple carriers,Delhi,Cochin,9.583333333333334,1.0,21226,Evening,3
+Jet Airways,Delhi,Cochin,32.083333333333336,2.0,11093,Morning,3
+Jet Airways,Banglore,New Delhi,5.416666666666667,1.0,12284,Morning,3
+IndiGo,Delhi,Cochin,3.25,0.0,5021,Evening,3
+Vistara,Banglore,Delhi,2.75,0.0,5823,Evening,4
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4804,Evening,5
+Vistara,Banglore,Delhi,2.583333333333333,0.0,4878,Evening,5
+IndiGo,Banglore,Delhi,2.75,0.0,4423,Morning,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Evening,5
+Air India,Delhi,Cochin,18.33333333333333,2.0,13801,Noon,5
+Jet Airways,Delhi,Cochin,7.5,1.0,14714,Noon,6
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,4
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,5
+Air India,Kolkata,Banglore,27.75,2.0,12224,Morning,6
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,12242,Night,4
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,6
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4804,Evening,6
+Jet Airways,Delhi,Cochin,9.166666666666666,1.0,14714,Evening,6
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,10368,Morning,6
+Air India,Mumbai,Hyderabad,16.5,2.0,9678,Morning,3
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,8824,Morning,3
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,5
+Air India,Delhi,Cochin,24.5,2.0,12698,Morning,6
+Air India,Delhi,Cochin,16.833333333333332,1.0,13002,Morning,3
+Jet Airways,Kolkata,Banglore,27.33333333333333,1.0,10844,Evening,5
+Jet Airways,Delhi,Cochin,8.916666666666666,2.0,15129,Evening,5
+Air India,Kolkata,Banglore,4.083333333333333,1.0,8996,Morning,6
+Jet Airways,Kolkata,Banglore,24.916666666666668,1.0,10031,Evening,3
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3543,Evening,6
+Jet Airways,Kolkata,Banglore,7.5,1.0,7594,Evening,6
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,6
+IndiGo,Banglore,New Delhi,4.333333333333333,1.0,7917,Evening,3
+GoAir,Delhi,Cochin,6.083333333333333,1.0,6276,Morning,6
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3873,Morning,5
+Air India,Delhi,Cochin,11.75,1.0,7258,Evening,4
+Jet Airways,Kolkata,Banglore,28.08333333333333,1.0,10539,Evening,6
+Multiple carriers,Delhi,Cochin,8.0,1.0,15136,Noon,3
+Air India,Mumbai,Hyderabad,1.5,0.0,3625,Noon,6
+Vistara,Banglore,Delhi,2.583333333333333,0.0,4878,Evening,6
+Multiple carriers,Delhi,Cochin,7.5,1.0,8073,Evening,5
+Jet Airways,Kolkata,Banglore,18.0,1.0,13067,Evening,5
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4462,Evening,3
+Jet Airways,Delhi,Cochin,11.0,1.0,16289,Morning,5
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3543,Evening,6
+IndiGo,Delhi,Cochin,10.25,1.0,6838,Morning,3
+Air India,Banglore,Delhi,2.75,0.0,6961,Morning,6
+Air Asia,Kolkata,Banglore,2.583333333333333,0.0,5645,Morning,5
+Multiple carriers,Delhi,Cochin,13.0,1.0,8073,Morning,5
+Multiple carriers,Delhi,Cochin,7.25,1.0,13727,Evening,5
+IndiGo,Delhi,Cochin,5.75,1.0,6058,Evening,5
+SpiceJet,Delhi,Cochin,6.333333333333333,1.0,5899,Noon,4
+Vistara,Kolkata,Banglore,25.83333333333333,1.0,9555,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5198,Noon,4
+Air India,Delhi,Cochin,18.75,1.0,11563,Noon,3
+Air India,Delhi,Cochin,24.75,2.0,12488,Evening,6
+Air India,Banglore,Delhi,2.833333333333333,0.0,5228,Evening,5
+Jet Airways,Kolkata,Banglore,15.166666666666666,1.0,7064,Morning,4
+Multiple carriers,Delhi,Cochin,12.583333333333334,1.0,13542,Noon,3
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,4
+Jet Airways,Banglore,New Delhi,12.416666666666666,1.0,16736,Morning,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Noon,3
+Jet Airways,Delhi,Cochin,6.0,1.0,12898,Noon,5
+Jet Airways,Delhi,Cochin,7.5,1.0,14714,Evening,6
+Jet Airways,Kolkata,Banglore,14.0,1.0,14151,Morning,5
+Air India,Delhi,Cochin,38.0,3.0,10703,Morning,5
+Jet Airways,Kolkata,Banglore,11.75,1.0,14571,Morning,5
+Air India,Banglore,New Delhi,33.75,2.0,10835,Morning,3
+Jet Airways,Banglore,New Delhi,6.166666666666667,1.0,7280,Morning,3
+Jet Airways,Kolkata,Banglore,12.916666666666666,1.0,13784,Evening,4
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,4944,Night,3
+Jet Airways,Delhi,Cochin,21.33333333333333,1.0,12898,Morning,5
+Air India,Banglore,Delhi,2.833333333333333,0.0,4441,Evening,4
+Jet Airways,Delhi,Cochin,19.416666666666668,1.0,12373,Morning,5
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,7155,Morning,6
+Jet Airways,Delhi,Cochin,18.166666666666668,2.0,14237,Evening,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,5
+Jet Airways,Delhi,Cochin,7.333333333333333,1.0,18550,Noon,3
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,6442,Morning,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Evening,4
+Jet Airways,Delhi,Cochin,9.333333333333334,2.0,10368,Morning,6
+SpiceJet,Delhi,Cochin,5.25,1.0,6297,Morning,5
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,10368,Morning,6
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,4
+Air India,Banglore,New Delhi,11.416666666666666,3.0,14195,Noon,3
+Multiple carriers,Delhi,Cochin,11.0,1.0,12192,Morning,6
+Jet Airways,Delhi,Cochin,16.583333333333332,2.0,14300,Evening,6
+Jet Airways,Banglore,New Delhi,14.75,1.0,13555,Evening,3
+Multiple carriers,Delhi,Cochin,13.833333333333334,1.0,9021,Noon,5
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,6297,Morning,3
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,5
+Air India,Kolkata,Banglore,8.75,2.0,15894,Noon,6
+Air India,Banglore,New Delhi,2.75,0.0,4441,Evening,3
+Vistara,Mumbai,Hyderabad,7.25,1.0,12395,Noon,3
+Jet Airways,Banglore,New Delhi,23.75,1.0,7832,Noon,3
+Jet Airways,Kolkata,Banglore,20.33333333333333,1.0,13759,Morning,3
+Air India,Banglore,New Delhi,6.833333333333333,1.0,11654,Morning,3
+IndiGo,Delhi,Cochin,8.0,1.0,10208,Morning,3
+Air India,Banglore,New Delhi,2.75,0.0,4441,Evening,3
+Air India,Kolkata,Banglore,20.166666666666668,2.0,11432,Morning,5
+IndiGo,Delhi,Cochin,9.333333333333334,1.0,6442,Morning,6
+Air Asia,Kolkata,Banglore,2.5,0.0,4082,Night,3
+IndiGo,Kolkata,Banglore,4.666666666666667,1.0,5386,Evening,5
+IndiGo,Delhi,Cochin,14.666666666666666,2.0,6610,Morning,3
+Jet Airways,Delhi,Cochin,17.083333333333332,2.0,13764,Evening,6
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,4777,Morning,3
+Jet Airways,Kolkata,Banglore,22.25,1.0,10031,Morning,3
+Jet Airways,Kolkata,Banglore,16.75,1.0,13067,Evening,5
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,6794,Night,5
+IndiGo,Delhi,Cochin,8.333333333333334,1.0,6104,Evening,6
+Jet Airways,Delhi,Cochin,23.166666666666668,2.0,15129,Noon,5
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,7757,Evening,5
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,6860,Morning,3
+Multiple carriers,Delhi,Cochin,10.5,1.0,13377,Noon,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,4
+Jet Airways,Kolkata,Banglore,26.166666666666668,1.0,14151,Evening,5
+Jet Airways,Delhi,Cochin,37.41666666666666,2.0,18799,Morning,3
+SpiceJet,Kolkata,Banglore,5.5,1.0,8224,Noon,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Noon,6
+GoAir,Delhi,Cochin,6.166666666666667,1.0,5052,Morning,4
+IndiGo,Delhi,Cochin,4.916666666666667,1.0,7580,Morning,5
+Jet Airways,Kolkata,Banglore,13.25,1.0,14231,Evening,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,5201,Morning,3
+Jet Airways,Kolkata,Banglore,24.666666666666668,1.0,12121,Evening,5
+Jet Airways,Banglore,Delhi,3.0,0.0,8016,Evening,6
+Air India,Delhi,Cochin,3.083333333333333,0.0,6094,Evening,5
+Vistara,Mumbai,Hyderabad,11.166666666666666,1.0,12395,Morning,3
+Multiple carriers,Delhi,Cochin,14.083333333333334,1.0,9103,Night,5
+Air India,Kolkata,Banglore,15.333333333333334,2.0,13033,Morning,6
+IndiGo,Delhi,Cochin,5.75,1.0,6037,Night,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4050,Morning,6
+Air India,Kolkata,Banglore,9.833333333333334,2.0,10151,Noon,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Morning,5
+Multiple carriers,Delhi,Cochin,10.25,1.0,15898,Morning,5
+Vistara,Kolkata,Banglore,13.166666666666666,1.0,8610,Morning,5
+Jet Airways,Kolkata,Banglore,12.916666666666666,1.0,15149,Evening,5
+Air India,Kolkata,Banglore,19.5,2.0,6117,Morning,6
+Multiple carriers,Delhi,Cochin,8.5,1.0,7198,Evening,6
+Air India,Delhi,Cochin,23.666666666666668,1.0,5957,Morning,3
+Multiple carriers,Delhi,Cochin,12.083333333333334,1.0,8055,Morning,3
+Air India,Kolkata,Banglore,4.083333333333333,1.0,8996,Morning,6
+Jet Airways,Delhi,Cochin,8.666666666666666,1.0,16079,Evening,5
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,5380,Noon,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Night,6
+IndiGo,Delhi,Cochin,10.583333333333334,1.0,14871,Noon,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3384,Morning,3
+GoAir,Kolkata,Banglore,7.583333333333333,1.0,8777,Evening,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Night,6
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,4030,Noon,5
+Multiple carriers,Delhi,Cochin,7.75,1.0,6732,Noon,3
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,5725,Night,3
+Jet Airways,Delhi,Cochin,38.25,2.0,15864,Morning,3
+Air India,Delhi,Cochin,26.0,2.0,13022,Evening,5
+Jet Airways,Banglore,New Delhi,18.166666666666668,1.0,22270,Noon,3
+Jet Airways,Kolkata,Banglore,9.5,1.0,10844,Noon,5
+SpiceJet,Banglore,New Delhi,2.833333333333333,0.0,5575,Morning,3
+Multiple carriers,Delhi,Cochin,6.25,1.0,14848,Noon,5
+GoAir,Banglore,Delhi,2.75,0.0,3419,Evening,6
+IndiGo,Delhi,Cochin,8.583333333333334,1.0,7094,Morning,3
+Jet Airways,Delhi,Cochin,16.916666666666668,1.0,10262,Noon,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,4
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,16863,Evening,3
+Multiple carriers,Delhi,Cochin,15.166666666666666,1.0,5999,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Morning,5
+Air India,Mumbai,Hyderabad,1.25,0.0,3100,Evening,6
+Jet Airways,Delhi,Cochin,37.16666666666666,2.0,21314,Morning,3
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3480,Evening,4
+Vistara,Kolkata,Banglore,25.83333333333333,1.0,8610,Evening,5
+Air India,Kolkata,Banglore,22.0,2.0,15107,Noon,5
+Jet Airways,Banglore,New Delhi,23.75,1.0,25735,Noon,3
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,8855,Evening,3
+Multiple carriers,Delhi,Cochin,6.416666666666667,1.0,6481,Noon,4
+Jet Airways,Banglore,New Delhi,20.58333333333333,1.0,12284,Noon,3
+Multiple carriers,Delhi,Cochin,12.0,1.0,13587,Morning,6
+IndiGo,Banglore,Delhi,3.0,0.0,4823,Evening,5
+Multiple carriers,Delhi,Cochin,15.333333333333334,1.0,6723,Morning,6
+Jet Airways,Delhi,Cochin,9.166666666666666,1.0,10262,Evening,6
+Multiple carriers,Delhi,Cochin,8.0,1.0,13727,Evening,5
+IndiGo,Kolkata,Banglore,4.916666666666667,1.0,12198,Morning,5
+Jet Airways,Banglore,New Delhi,21.33333333333333,1.0,13712,Noon,3
+Jet Airways,Kolkata,Banglore,8.666666666666666,1.0,6959,Evening,6
+Jet Airways,Banglore,New Delhi,7.833333333333333,1.0,21934,Evening,3
+Air India,Delhi,Cochin,26.0,2.0,13039,Evening,5
+IndiGo,Delhi,Cochin,5.0,1.0,5073,Morning,4
+Jet Airways,Banglore,New Delhi,11.416666666666666,1.0,16736,Morning,3
+Air India,Banglore,New Delhi,28.416666666666668,2.0,12599,Morning,3
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3847,Night,3
+Jet Airways,Delhi,Cochin,10.0,2.0,14237,Evening,6
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Noon,6
+IndiGo,Banglore,New Delhi,4.833333333333333,1.0,8110,Morning,3
+Jet Airways,Delhi,Cochin,24.58333333333333,1.0,16289,Evening,3
+Jet Airways,Delhi,Cochin,22.0,2.0,10919,Noon,6
+Jet Airways,Delhi,Cochin,17.333333333333332,1.0,12373,Evening,5
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,14781,Morning,5
+Air India,Delhi,Cochin,6.25,1.0,9719,Noon,5
+Air India,Banglore,New Delhi,27.83333333333333,2.0,12358,Morning,3
+GoAir,Kolkata,Banglore,2.583333333333333,0.0,3514,Noon,6
+Jet Airways,Delhi,Cochin,26.916666666666668,2.0,13014,Morning,6
+Jet Airways,Delhi,Cochin,25.5,1.0,10262,Evening,6
+Jet Airways,Kolkata,Banglore,12.916666666666666,1.0,8586,Evening,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,5755,Morning,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,7615,Noon,3
+Air India,Kolkata,Banglore,28.33333333333333,2.0,11752,Morning,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,6
+Multiple carriers,Delhi,Cochin,9.0,1.0,6093,Morning,4
+IndiGo,Kolkata,Banglore,2.75,0.0,4804,Morning,4
+Air Asia,Kolkata,Banglore,3.6666666666666665,1.0,5162,Morning,4
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Night,6
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,6
+IndiGo,Kolkata,Banglore,3.6666666666666665,1.0,5276,Evening,5
+Jet Airways,Banglore,New Delhi,4.666666666666667,1.0,16757,Morning,3
+Air India,Delhi,Cochin,24.83333333333333,2.0,11071,Morning,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,6
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,10123,Night,5
+Jet Airways,Delhi,Cochin,22.08333333333333,1.0,12898,Evening,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2017,Night,6
+Jet Airways,Delhi,Cochin,3.25,0.0,7202,Noon,3
+Air India,Kolkata,Banglore,17.416666666666668,2.0,13143,Morning,5
+Jet Airways,Kolkata,Banglore,12.916666666666666,1.0,8586,Evening,5
+Jet Airways,Banglore,New Delhi,16.75,1.0,7832,Evening,3
+Multiple carriers,Delhi,Cochin,13.0,1.0,13797,Morning,6
+SpiceJet,Delhi,Cochin,6.0,1.0,11349,Noon,3
+IndiGo,Delhi,Cochin,8.0,1.0,6104,Evening,6
+Air India,Kolkata,Banglore,15.333333333333334,2.0,13033,Morning,5
+Jet Airways,Banglore,New Delhi,19.416666666666668,1.0,17261,Noon,3
+Multiple carriers,Delhi,Cochin,9.666666666666666,1.0,15135,Morning,3
+Air India,Delhi,Cochin,30.33333333333333,2.0,13696,Noon,5
+IndiGo,Kolkata,Banglore,4.583333333333333,1.0,4966,Noon,4
+Jet Airways,Banglore,Delhi,3.0,0.0,8016,Evening,6
+Air India,Delhi,Cochin,23.5,2.0,10441,Evening,6
+Air Asia,Delhi,Cochin,10.416666666666666,1.0,6253,Evening,6
+Air India,Delhi,Cochin,8.333333333333334,2.0,12173,Morning,6
+Multiple carriers,Delhi,Cochin,6.583333333333333,1.0,12524,Morning,6
+SpiceJet,Banglore,Delhi,2.6666666666666665,0.0,4319,Morning,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,6
+Air India,Delhi,Cochin,11.25,1.0,7199,Morning,3
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,8016,Evening,6
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,7064,Morning,4
+Air India,Delhi,Cochin,19.666666666666668,2.0,10966,Noon,6
+Jet Airways,Kolkata,Banglore,12.5,1.0,12121,Morning,5
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,5069,Morning,6
+Air Asia,Delhi,Cochin,14.416666666666666,1.0,11410,Evening,6
+Air India,Banglore,New Delhi,14.25,1.0,11654,Morning,3
+IndiGo,Banglore,New Delhi,3.0,0.0,6860,Morning,3
+Air India,Delhi,Cochin,3.083333333333333,0.0,4729,Evening,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4160,Morning,3
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,6
+Jet Airways,Banglore,New Delhi,10.416666666666666,1.0,12284,Morning,3
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4145,Evening,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Morning,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,4
+Air India,Banglore,Delhi,2.75,0.0,5228,Morning,4
+Vistara,Banglore,Delhi,2.75,0.0,5088,Evening,6
+Jet Airways,Kolkata,Banglore,5.5,1.0,10844,Morning,6
+IndiGo,Banglore,New Delhi,2.75,0.0,4238,Night,3
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,6
+Jet Airways,Delhi,Cochin,14.416666666666666,1.0,12898,Noon,5
+Multiple carriers,Delhi,Cochin,11.75,1.0,8266,Morning,6
+Air India,Banglore,New Delhi,10.25,1.0,4943,Morning,3
+Jet Airways,Delhi,Cochin,25.08333333333333,1.0,10262,Noon,6
+Jet Airways,Kolkata,Banglore,21.58333333333333,1.0,11467,Evening,4
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5769,Noon,6
+Air India,Kolkata,Banglore,25.08333333333333,2.0,12009,Morning,4
+IndiGo,Kolkata,Banglore,3.6666666666666665,1.0,4226,Evening,5
+Jet Airways,Banglore,New Delhi,4.666666666666667,1.0,19225,Morning,3
+Jet Airways,Delhi,Cochin,16.666666666666668,2.0,11992,Noon,6
+Jet Airways,Delhi,Cochin,11.0,1.0,18581,Morning,6
+Jet Airways,Delhi,Cochin,8.416666666666666,2.0,14300,Evening,6
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,14781,Evening,5
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+GoAir,Kolkata,Banglore,7.583333333333333,1.0,10586,Evening,5
+Jet Airways,Banglore,Delhi,3.0,0.0,5769,Evening,6
+Air India,Banglore,New Delhi,25.75,2.0,31783,Morning,3
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,7648,Morning,3
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,6442,Morning,5
+Air India,Delhi,Cochin,23.666666666666668,1.0,7480,Morning,5
+SpiceJet,Kolkata,Banglore,5.25,1.0,4649,Noon,4
+Jet Airways,Banglore,New Delhi,6.083333333333333,1.0,13817,Evening,3
+Air India,Delhi,Cochin,3.0,0.0,7931,Noon,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Morning,5
+Jet Airways,Kolkata,Banglore,28.83333333333333,1.0,13067,Morning,5
+Air India,Delhi,Cochin,3.083333333333333,0.0,8456,Evening,6
+Jet Airways,Delhi,Cochin,11.75,1.0,17549,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2227,Evening,4
+IndiGo,Delhi,Cochin,5.25,1.0,6582,Morning,6
+Jet Airways,Delhi,Cochin,15.666666666666666,1.0,12373,Evening,5
+Multiple carriers,Delhi,Cochin,9.083333333333334,1.0,10696,Morning,6
+Air India,Banglore,New Delhi,35.083333333333336,2.0,11161,Noon,3
+Air India,Banglore,New Delhi,2.833333333333333,0.0,8851,Noon,3
+SpiceJet,Banglore,New Delhi,2.833333333333333,0.0,5575,Evening,3
+IndiGo,Delhi,Cochin,3.25,0.0,4729,Noon,4
+Multiple carriers,Delhi,Cochin,11.0,1.0,7038,Morning,5
+Vistara,Kolkata,Banglore,26.33333333333333,1.0,8452,Evening,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,6
+Air India,Delhi,Cochin,26.0,2.0,8770,Evening,3
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,5
+Jet Airways,Delhi,Cochin,20.416666666666668,1.0,17549,Morning,3
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3873,Night,4
+IndiGo,Delhi,Cochin,5.0,1.0,7725,Evening,3
+Jet Airways,Delhi,Cochin,27.58333333333333,1.0,10262,Morning,6
+Air India,Delhi,Cochin,6.25,1.0,10191,Noon,5
+Multiple carriers,Delhi,Cochin,12.583333333333334,1.0,12327,Noon,3
+Air India,Kolkata,Banglore,30.5,2.0,9237,Evening,4
+GoAir,Kolkata,Banglore,8.25,1.0,6945,Night,5
+Jet Airways,Delhi,Cochin,9.833333333333334,1.0,17024,Morning,3
+Multiple carriers,Delhi,Cochin,7.25,1.0,13587,Evening,6
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,5647,Morning,3
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3574,Evening,6
+Air India,Delhi,Cochin,24.75,2.0,10703,Evening,3
+IndiGo,Delhi,Cochin,11.833333333333334,1.0,8285,Morning,3
+IndiGo,Chennai,Kolkata,2.25,0.0,6297,Noon,3
+Jet Airways,Kolkata,Banglore,14.416666666666666,1.0,9663,Evening,5
+Air India,Kolkata,Banglore,15.333333333333334,2.0,13873,Morning,5
+Multiple carriers,Delhi,Cochin,9.75,1.0,9627,Morning,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Evening,4
+IndiGo,Delhi,Cochin,13.916666666666666,1.0,6442,Morning,6
+Jet Airways,Delhi,Cochin,23.0,2.0,16914,Morning,3
+Jet Airways,Banglore,New Delhi,18.5,1.0,7832,Evening,3
+IndiGo,Kolkata,Banglore,2.5,0.0,4174,Noon,4
+Jet Airways,Kolkata,Banglore,7.083333333333333,1.0,10844,Evening,6
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,3540,Morning,6
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,11200,Noon,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Evening,4
+Air India,Delhi,Cochin,25.58333333333333,1.0,8425,Morning,5
+Jet Airways,Kolkata,Banglore,8.5,1.0,14781,Noon,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Night,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4148,Noon,3
+Jet Airways,Kolkata,Banglore,16.0,1.0,9663,Evening,5
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3625,Morning,5
+Air India,Mumbai,Hyderabad,1.25,0.0,3100,Evening,5
+Air India,Delhi,Cochin,20.75,2.0,12803,Morning,5
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,5073,Evening,3
+Jet Airways,Kolkata,Banglore,17.916666666666668,1.0,13067,Evening,5
+Jet Airways,Banglore,New Delhi,21.83333333333333,1.0,11087,Noon,3
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,4
+Multiple carriers,Delhi,Cochin,10.25,1.0,14848,Morning,6
+Jet Airways,Delhi,Cochin,20.166666666666668,1.0,16079,Night,5
+Multiple carriers,Delhi,Cochin,12.0,1.0,7618,Morning,5
+Air India,Kolkata,Banglore,23.916666666666668,1.0,10203,Evening,6
+Jet Airways,Delhi,Cochin,18.75,2.0,13029,Morning,5
+Jet Airways,Kolkata,Banglore,8.416666666666666,1.0,10539,Morning,6
+IndiGo,Delhi,Cochin,3.25,0.0,7673,Evening,3
+Jet Airways,Kolkata,Banglore,26.166666666666668,1.0,13067,Evening,5
+Air India,Kolkata,Banglore,22.75,2.0,15187,Morning,3
+IndiGo,Kolkata,Banglore,5.25,1.0,7228,Evening,5
+Jet Airways,Kolkata,Banglore,20.25,1.0,8586,Morning,5
+IndiGo,Kolkata,Banglore,5.25,1.0,4775,Noon,4
+Air Asia,Kolkata,Banglore,7.5,2.0,11245,Noon,3
+Jet Airways,Banglore,Delhi,3.0,0.0,4544,Evening,4
+Jet Airways,Kolkata,Banglore,9.75,1.0,9663,Evening,6
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,13014,Morning,6
+Multiple carriers,Delhi,Cochin,15.416666666666666,1.0,10348,Morning,5
+IndiGo,Delhi,Cochin,5.75,1.0,7173,Night,4
+Jet Airways,Banglore,New Delhi,11.583333333333334,1.0,17261,Night,3
+Vistara,Kolkata,Banglore,16.083333333333332,1.0,9922,Evening,5
+Jet Airways,Delhi,Cochin,9.166666666666666,1.0,10262,Evening,6
+GoAir,Banglore,Delhi,2.9166666666666665,0.0,3898,Morning,6
+Jet Airways,Banglore,New Delhi,18.166666666666668,1.0,14815,Noon,3
+Jet Airways,Delhi,Cochin,7.333333333333333,2.0,18804,Noon,6
+Air India,Kolkata,Banglore,15.083333333333334,1.0,8366,Evening,6
+Jet Airways,Kolkata,Banglore,7.25,1.0,5608,Morning,5
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,7851,Morning,4
+SpiceJet,Kolkata,Banglore,7.0,1.0,12287,Noon,3
+Jet Airways,Banglore,Delhi,3.0,0.0,5198,Morning,5
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,6017,Night,3
+Jet Airways,Delhi,Cochin,8.666666666666666,1.0,10262,Evening,6
+IndiGo,Delhi,Cochin,12.5,1.0,6093,Morning,6
+Vistara,Kolkata,Banglore,15.0,1.0,12942,Morning,3
+Jet Airways,Banglore,New Delhi,23.916666666666668,1.0,17471,Evening,3
+IndiGo,Delhi,Cochin,10.5,1.0,6316,Noon,6
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3873,Night,5
+Jet Airways,Delhi,Cochin,28.0,1.0,10262,Noon,6
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4282,Night,5
+Multiple carriers,Delhi,Cochin,11.833333333333334,1.0,12402,Morning,3
+Multiple carriers,Delhi,Cochin,12.75,1.0,9646,Morning,6
+Multiple carriers,Delhi,Cochin,14.166666666666666,2.0,5935,Morning,3
+Vistara,Mumbai,Hyderabad,12.5,1.0,12395,Morning,3
+IndiGo,Delhi,Cochin,5.75,1.0,6386,Night,6
+Jet Airways,Banglore,New Delhi,7.5,1.0,9134,Morning,3
+Multiple carriers,Delhi,Cochin,10.833333333333334,1.0,15342,Morning,3
+Multiple carriers,Delhi,Cochin,9.5,1.0,13727,Noon,5
+Air India,Kolkata,Banglore,11.25,1.0,7452,Morning,6
+Air India,Delhi,Cochin,12.25,1.0,7934,Morning,3
+Air India,Mumbai,Hyderabad,24.0,1.0,8065,Morning,3
+Multiple carriers,Delhi,Cochin,10.5,1.0,11200,Morning,6
+GoAir,Banglore,Delhi,2.75,0.0,3898,Evening,6
+GoAir,Banglore,Delhi,2.9166666666666665,0.0,3419,Morning,6
+Air India,Kolkata,Banglore,30.5,2.0,9626,Noon,5
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,9794,Morning,5
+IndiGo,Delhi,Cochin,3.25,0.0,5601,Morning,6
+GoAir,Banglore,Delhi,2.75,0.0,3419,Evening,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,8586,Morning,5
+Jet Airways,Kolkata,Banglore,28.166666666666668,1.0,10844,Noon,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Evening,4
+Jet Airways,Delhi,Cochin,7.5,1.0,10262,Evening,6
+Jet Airways,Kolkata,Banglore,23.33333333333333,1.0,8529,Evening,6
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Noon,5
+IndiGo,Delhi,Cochin,9.333333333333334,1.0,7514,Morning,6
+Air India,Kolkata,Banglore,27.0,2.0,11491,Morning,3
+Air India,Banglore,New Delhi,23.75,1.0,6982,Noon,3
+Multiple carriers,Delhi,Cochin,11.25,1.0,13378,Morning,3
+IndiGo,Delhi,Cochin,9.333333333333334,1.0,6442,Morning,4
+SpiceJet,Kolkata,Banglore,2.5,0.0,3847,Morning,3
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,11150,Night,6
+IndiGo,Delhi,Cochin,9.5,1.0,6316,Evening,6
+IndiGo,Delhi,Cochin,6.333333333333333,1.0,6938,Evening,6
+Jet Airways,Delhi,Cochin,16.75,1.0,10262,Night,6
+Jet Airways,Delhi,Cochin,24.83333333333333,2.0,13882,Noon,6
+Jet Airways,Delhi,Cochin,18.75,2.0,13014,Morning,6
+Jet Airways,Kolkata,Banglore,24.666666666666668,1.0,10539,Evening,6
+Air India,Delhi,Cochin,14.416666666666666,2.0,14667,Evening,6
+Jet Airways,Delhi,Cochin,27.0,1.0,14714,Evening,6
+Jet Airways,Kolkata,Banglore,19.5,1.0,8529,Evening,6
+Air India,Delhi,Cochin,10.25,1.0,10454,Morning,6
+Air Asia,Kolkata,Banglore,11.833333333333334,1.0,5192,Morning,4
+IndiGo,Delhi,Cochin,14.083333333333334,1.0,5883,Noon,6
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,3943,Night,4
+Multiple carriers,Delhi,Cochin,14.0,1.0,7618,Morning,6
+Multiple carriers,Delhi,Cochin,14.0,1.0,8073,Morning,5
+Air India,Delhi,Cochin,6.25,1.0,8372,Noon,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Night,6
+Jet Airways,Kolkata,Banglore,25.33333333333333,1.0,13067,Morning,5
+SpiceJet,Kolkata,Banglore,5.5,1.0,8844,Noon,5
+IndiGo,Kolkata,Banglore,5.416666666666667,1.0,6218,Evening,5
+Air India,Delhi,Cochin,7.25,2.0,8603,Noon,6
+IndiGo,Delhi,Cochin,14.083333333333334,1.0,5684,Noon,6
+Jet Airways,Banglore,New Delhi,18.916666666666668,1.0,17261,Noon,3
+Air India,Delhi,Cochin,25.58333333333333,1.0,11522,Morning,3
+IndiGo,Delhi,Cochin,4.833333333333333,1.0,6496,Noon,5
+Air India,Banglore,Delhi,2.75,0.0,6121,Evening,4
+GoAir,Banglore,Delhi,2.9166666666666665,0.0,3419,Morning,6
+Multiple carriers,Delhi,Cochin,12.5,1.0,15078,Noon,5
+Jet Airways,Delhi,Cochin,25.416666666666668,1.0,16289,Evening,3
+Jet Airways,Delhi,Cochin,7.083333333333333,2.0,14441,Morning,6
+SpiceJet,Delhi,Cochin,4.5,1.0,5158,Morning,6
+Air Asia,Kolkata,Banglore,11.833333333333334,1.0,5192,Morning,4
+Multiple carriers,Delhi,Cochin,8.083333333333334,1.0,15135,Morning,3
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,10262,Night,6
+Jet Airways,Delhi,Cochin,9.0,1.0,14714,Morning,6
+Jet Airways,Delhi,Cochin,9.333333333333334,2.0,13014,Morning,6
+Jet Airways Business,Delhi,Cochin,8.333333333333334,2.0,52285,Evening,3
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,5
+Jet Airways,Delhi,Cochin,19.416666666666668,1.0,10262,Morning,6
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,6144,Evening,5
+IndiGo,Delhi,Cochin,13.5,1.0,6093,Morning,6
+Multiple carriers,Delhi,Cochin,9.0,1.0,6513,Morning,5
+IndiGo,Banglore,New Delhi,2.9166666666666665,0.0,6860,Evening,3
+Vistara,Banglore,New Delhi,27.75,1.0,12371,Morning,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,8580,Morning,3
+Vistara,Banglore,Delhi,2.583333333333333,0.0,5613,Evening,4
+GoAir,Banglore,New Delhi,4.5,1.0,7657,Noon,3
+Jet Airways,Banglore,Delhi,3.0,0.0,8016,Morning,6
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,4784,Evening,3
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,10703,Evening,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,5
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,4049,Morning,3
+Jet Airways,Delhi,Cochin,16.75,1.0,10262,Night,6
+Jet Airways,Kolkata,Banglore,7.083333333333333,1.0,14781,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Morning,6
+Jet Airways,Kolkata,Banglore,20.0,1.0,7757,Noon,5
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,4777,Night,3
+Air India,Delhi,Cochin,23.666666666666668,1.0,8372,Morning,5
+GoAir,Delhi,Cochin,5.166666666666667,1.0,7870,Noon,6
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,6
+Air Asia,Kolkata,Banglore,8.333333333333334,2.0,6810,Noon,6
+Multiple carriers,Delhi,Cochin,6.5,1.0,7198,Evening,6
+IndiGo,Kolkata,Banglore,5.25,1.0,6534,Evening,5
+Jet Airways,Delhi,Cochin,27.58333333333333,1.0,10262,Morning,6
+Air India,Kolkata,Banglore,12.75,2.0,11432,Evening,6
+Air India,Kolkata,Banglore,25.25,1.0,7662,Noon,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Night,4
+Jet Airways,Banglore,New Delhi,4.666666666666667,1.0,6136,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Night,4
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Evening,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,2050,Evening,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4990,Evening,6
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,7229,Evening,6
+Air India,Delhi,Cochin,12.75,1.0,7480,Evening,5
+Air India,Banglore,New Delhi,10.916666666666666,2.0,6593,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Morning,5
+Air India,Delhi,Cochin,20.25,1.0,6745,Night,3
+SpiceJet,Delhi,Cochin,4.916666666666667,1.0,4957,Evening,4
+Jet Airways,Kolkata,Banglore,6.666666666666667,1.0,10844,Noon,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Morning,5
+Multiple carriers,Delhi,Cochin,9.083333333333334,1.0,9646,Morning,5
+Multiple carriers,Delhi,Cochin,12.666666666666666,1.0,6795,Noon,6
+Air India,Delhi,Cochin,23.666666666666668,2.0,10975,Morning,5
+Multiple carriers,Delhi,Cochin,15.416666666666666,1.0,10696,Morning,6
+Air India,Kolkata,Banglore,28.33333333333333,2.0,11542,Morning,6
+Jet Airways,Delhi,Cochin,7.5,1.0,12898,Evening,6
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3841,Night,4
+IndiGo,Banglore,New Delhi,2.75,0.0,4777,Morning,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,13584,Evening,5
+GoAir,Banglore,New Delhi,2.9166666666666665,0.0,6113,Noon,3
+Jet Airways,Kolkata,Banglore,24.666666666666668,1.0,12692,Evening,6
+Jet Airways,Delhi,Cochin,7.5,1.0,10262,Evening,6
+Jet Airways,Delhi,Cochin,22.58333333333333,1.0,12898,Noon,5
+Air India,Delhi,Cochin,26.0,2.0,13442,Evening,3
+Jet Airways,Banglore,New Delhi,8.75,1.0,11087,Night,3
+Jet Airways,Delhi,Cochin,12.416666666666666,1.0,14714,Evening,6
+Air India,Delhi,Cochin,10.25,1.0,8372,Morning,6
+Air India,Kolkata,Banglore,28.33333333333333,1.0,7662,Evening,6
+IndiGo,Delhi,Cochin,5.75,1.0,7189,Evening,5
+Jet Airways,Delhi,Cochin,23.25,1.0,10577,Evening,6
+Jet Airways,Delhi,Cochin,24.75,1.0,14714,Evening,6
+IndiGo,Banglore,New Delhi,4.916666666666667,1.0,5397,Evening,3
+Multiple carriers,Delhi,Cochin,8.833333333333334,1.0,11667,Morning,3
+IndiGo,Delhi,Cochin,8.333333333333334,1.0,5883,Evening,6
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,7851,Morning,4
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Noon,6
+Jet Airways,Banglore,New Delhi,10.666666666666666,1.0,11087,Night,3
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,4544,Evening,4
+Multiple carriers,Delhi,Cochin,9.5,1.0,7308,Evening,5
+IndiGo,Delhi,Cochin,7.083333333333333,1.0,6818,Morning,6
+Multiple carriers,Delhi,Cochin,7.666666666666667,1.0,7858,Evening,5
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,4545,Night,3
+Jet Airways,Kolkata,Banglore,12.25,1.0,7064,Evening,4
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,8855,Night,3
+Jet Airways,Kolkata,Banglore,27.666666666666668,1.0,10844,Evening,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14151,Evening,4
+Air India,Kolkata,Banglore,20.916666666666668,2.0,11542,Evening,6
+Air India,Kolkata,Banglore,33.333333333333336,2.0,15292,Noon,3
+Jet Airways,Banglore,New Delhi,25.5,1.0,11087,Morning,3
+Jet Airways,Delhi,Cochin,7.333333333333333,2.0,15439,Noon,4
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,5298,Morning,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,14781,Morning,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Noon,6
+Jet Airways,Delhi,Cochin,18.83333333333333,2.0,13292,Morning,6
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,10624,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Noon,4
+Jet Airways,Delhi,Cochin,9.25,2.0,8456,Evening,3
+Jet Airways,Banglore,Delhi,3.0,0.0,6144,Morning,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Morning,4
+Jet Airways,Banglore,New Delhi,12.5,1.0,11087,Night,3
+Multiple carriers,Delhi,Cochin,7.833333333333333,1.0,7575,Noon,5
+Vistara,Chennai,Kolkata,2.333333333333333,0.0,11982,Evening,5
+Multiple carriers,Delhi,Cochin,14.25,2.0,8620,Morning,3
+Vistara,Banglore,New Delhi,2.6666666666666665,0.0,7975,Morning,3
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,14178,Evening,5
+SpiceJet,Kolkata,Banglore,8.666666666666666,1.0,6643,Morning,5
+IndiGo,Delhi,Cochin,5.75,1.0,5733,Night,3
+Multiple carriers,Delhi,Cochin,8.0,1.0,7308,Evening,5
+IndiGo,Banglore,Delhi,2.75,0.0,3943,Night,6
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,13292,Morning,6
+Multiple carriers,Delhi,Cochin,11.75,1.0,7354,Morning,6
+Air India,Banglore,Delhi,2.75,0.0,5228,Morning,4
+Air India,Delhi,Cochin,26.0,2.0,12392,Evening,6
+Air India,Delhi,Cochin,14.583333333333334,1.0,8361,Evening,5
+Air Asia,Kolkata,Banglore,2.5,0.0,3807,Night,6
+IndiGo,Delhi,Cochin,5.75,1.0,6349,Evening,5
+Air India,Kolkata,Banglore,14.583333333333334,2.0,11201,Morning,6
+Jet Airways,Delhi,Cochin,13.75,1.0,10262,Night,6
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2753,Morning,6
+Air India,Kolkata,Banglore,23.08333333333333,2.0,13227,Morning,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Noon,5
+Multiple carriers,Delhi,Cochin,10.25,1.0,6795,Noon,6
+Multiple carriers,Delhi,Cochin,9.416666666666666,1.0,9646,Noon,5
+Multiple carriers,Delhi,Cochin,9.5,1.0,13587,Noon,6
+Jet Airways,Delhi,Cochin,16.583333333333332,2.0,14300,Evening,6
+Multiple carriers,Delhi,Cochin,6.416666666666667,1.0,9646,Morning,6
+Air Asia,Kolkata,Banglore,2.5,0.0,3782,Night,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Evening,4
+Air India,Banglore,New Delhi,38.583333333333336,2.0,10783,Morning,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,4307,Evening,3
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,7120,Night,6
+Multiple carriers,Delhi,Cochin,7.833333333333333,1.0,8937,Noon,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,4622,Evening,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4160,Morning,3
+Air India,Banglore,New Delhi,14.583333333333334,2.0,13250,Morning,3
+Jet Airways,Kolkata,Banglore,11.75,1.0,10844,Morning,5
+Multiple carriers,Delhi,Cochin,8.0,1.0,13377,Evening,6
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,6
+IndiGo,Delhi,Cochin,16.25,1.0,6628,Morning,5
+Air India,Kolkata,Banglore,31.916666666666668,2.0,13616,Morning,5
+Jet Airways,Kolkata,Banglore,28.08333333333333,1.0,13067,Evening,5
+Jet Airways,Delhi,Cochin,23.25,1.0,12373,Evening,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Evening,5
+Air India,Kolkata,Banglore,12.416666666666666,1.0,8366,Morning,6
+IndiGo,Delhi,Cochin,15.666666666666666,1.0,6442,Morning,6
+GoAir,Delhi,Cochin,5.166666666666667,1.0,19495,Noon,3
+Multiple carriers,Delhi,Cochin,15.333333333333334,1.0,6093,Morning,6
+Jet Airways,Delhi,Cochin,19.08333333333333,1.0,10262,Evening,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Evening,4
+IndiGo,Delhi,Cochin,3.25,0.0,5000,Noon,6
+Multiple carriers,Delhi,Cochin,12.0,1.0,15078,Morning,3
+SpiceJet,Banglore,Delhi,2.9166666666666665,0.0,3573,Evening,4
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,6297,Noon,3
+Air India,Kolkata,Banglore,19.75,2.0,15170,Evening,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,13941,Morning,5
+Air India,Delhi,Cochin,2.833333333333333,0.0,5201,Morning,6
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14939,Evening,6
+Jet Airways,Kolkata,Banglore,26.416666666666668,1.0,10844,Evening,6
+IndiGo,Banglore,Delhi,2.75,0.0,4423,Morning,5
+Jet Airways,Kolkata,Banglore,21.916666666666668,1.0,9663,Noon,5
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,4544,Evening,4
+Air India,Delhi,Cochin,11.75,1.0,8991,Evening,3
+IndiGo,Banglore,Delhi,2.75,0.0,3419,Night,5
+Air India,Delhi,Cochin,16.833333333333332,1.0,7174,Morning,5
+Jet Airways,Kolkata,Banglore,26.25,1.0,10844,Noon,5
+Jet Airways,Delhi,Cochin,18.75,2.0,10368,Morning,6
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,4
+Air India,Delhi,Cochin,11.75,1.0,5683,Evening,4
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,12819,Evening,6
+Jet Airways,Delhi,Cochin,7.5,1.0,10262,Noon,6
+Jet Airways,Kolkata,Banglore,7.083333333333333,1.0,14781,Evening,5
+IndiGo,Delhi,Cochin,5.416666666666667,1.0,5636,Night,6
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,8016,Noon,6
+Air India,Banglore,Delhi,2.75,0.0,5228,Morning,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2385,Noon,5
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,11841,Evening,6
+IndiGo,Delhi,Cochin,10.5,1.0,6628,Noon,6
+Air India,Kolkata,Banglore,30.5,2.0,13885,Evening,3
+Multiple carriers,Delhi,Cochin,12.0,1.0,13727,Morning,5
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,7503,Evening,5
+Jet Airways,Delhi,Cochin,13.666666666666666,2.0,8518,Morning,3
+Air India,Delhi,Cochin,7.25,2.0,11858,Noon,3
+Air India,Kolkata,Banglore,2.5,0.0,5510,Noon,6
+Air India,Kolkata,Banglore,12.416666666666666,1.0,10203,Evening,5
+Air India,Delhi,Cochin,12.25,1.0,9929,Morning,5
+Air India,Banglore,New Delhi,31.5,2.0,12778,Morning,3
+Air India,Delhi,Cochin,3.0,0.0,6934,Noon,5
+Vistara,Kolkata,Banglore,6.416666666666667,1.0,8610,Evening,4
+Multiple carriers,Delhi,Cochin,7.666666666666667,1.0,10678,Night,6
+Jet Airways,Kolkata,Banglore,21.416666666666668,1.0,10844,Evening,5
+Multiple carriers,Delhi,Cochin,10.0,1.0,8099,Morning,6
+Air India,Banglore,New Delhi,7.25,2.0,13261,Morning,3
+Vistara,Kolkata,Banglore,25.916666666666668,1.0,8137,Morning,5
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,7120,Night,6
+Jet Airways,Kolkata,Banglore,14.416666666666666,1.0,9663,Evening,5
+Multiple carriers,Delhi,Cochin,13.25,1.0,8266,Morning,5
+Jet Airways,Kolkata,Banglore,21.58333333333333,1.0,13401,Evening,6
+Air India,Banglore,New Delhi,10.5,2.0,7664,Morning,3
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,5
+Multiple carriers,Delhi,Cochin,9.5,1.0,13727,Evening,5
+Vistara,Delhi,Cochin,3.1666666666666665,0.0,6216,Noon,6
+GoAir,Banglore,Delhi,2.833333333333333,0.0,3398,Noon,6
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,6144,Night,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4488,Evening,4
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,16079,Night,5
+IndiGo,Banglore,Delhi,3.0,0.0,4823,Evening,4
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,6482,Morning,3
+IndiGo,Chennai,Kolkata,2.25,0.0,6297,Noon,3
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,4
+Vistara,Kolkata,Banglore,27.08333333333333,1.0,9345,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,3502,Noon,5
+Multiple carriers,Delhi,Cochin,10.416666666666666,2.0,15965,Noon,6
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,9476,Night,5
+Jet Airways,Kolkata,Banglore,26.83333333333333,1.0,9663,Morning,5
+IndiGo,Delhi,Cochin,4.666666666666667,1.0,5947,Evening,3
+Jet Airways,Delhi,Cochin,3.25,0.0,7202,Noon,6
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,10368,Morning,6
+Air Asia,Kolkata,Banglore,12.0,1.0,11323,Night,6
+IndiGo,Banglore,Delhi,2.75,0.0,3943,Night,6
+Multiple carriers,Delhi,Cochin,12.583333333333334,1.0,10276,Morning,3
+Air India,Kolkata,Banglore,20.0,2.0,14687,Morning,5
+SpiceJet,Delhi,Cochin,4.5,1.0,4098,Morning,4
+Air India,Kolkata,Banglore,2.5,0.0,6245,Noon,4
+Air India,Delhi,Cochin,21.25,2.0,10231,Night,5
+Multiple carriers,Delhi,Cochin,13.0,1.0,13797,Morning,6
+Jet Airways,Delhi,Cochin,26.916666666666668,2.0,13014,Morning,6
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Night,5
+Air India,Delhi,Cochin,5.333333333333333,1.0,5232,Evening,4
+Air India,Banglore,New Delhi,26.33333333333333,2.0,19372,Morning,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Evening,6
+Jet Airways,Banglore,Delhi,3.0,0.0,5198,Morning,5
+Air India,Delhi,Cochin,11.25,1.0,15284,Morning,3
+Jet Airways,Delhi,Cochin,17.083333333333332,2.0,15129,Evening,5
+Jet Airways,Delhi,Cochin,18.5,1.0,12242,Morning,3
+Jet Airways,Kolkata,Banglore,14.0,1.0,14151,Morning,5
+Jet Airways,Delhi,Cochin,5.0,1.0,10262,Noon,6
+IndiGo,Delhi,Cochin,4.916666666666667,1.0,6496,Morning,6
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,15129,Night,5
+Jet Airways,Banglore,New Delhi,6.666666666666667,1.0,22270,Morning,3
+Air India,Banglore,New Delhi,27.0,3.0,13081,Morning,3
+Air Asia,Kolkata,Banglore,2.5,0.0,4082,Night,3
+Jet Airways,Banglore,New Delhi,12.416666666666666,1.0,13817,Morning,3
+Jet Airways,Banglore,New Delhi,17.5,1.0,11087,Evening,3
+Multiple carriers,Delhi,Cochin,13.833333333333334,1.0,7485,Noon,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Night,5
+SpiceJet,Banglore,Delhi,2.9166666666666665,0.0,3257,Evening,6
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,10844,Morning,5
+GoAir,Banglore,Delhi,2.833333333333333,0.0,3398,Noon,5
+Multiple carriers,Delhi,Cochin,12.25,1.0,7005,Morning,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,6
+Air India,Kolkata,Banglore,18.33333333333333,2.0,13033,Morning,5
+Multiple carriers,Delhi,Cochin,15.5,1.0,8925,Morning,5
+Jet Airways,Kolkata,Banglore,6.666666666666667,1.0,14781,Noon,5
+Jet Airways,Delhi,Cochin,23.58333333333333,1.0,10262,Noon,6
+SpiceJet,Banglore,Delhi,2.9166666666666665,0.0,3919,Evening,4
+Multiple carriers,Delhi,Cochin,9.5,1.0,13377,Evening,6
+Air Asia,Kolkata,Banglore,2.583333333333333,0.0,4384,Morning,3
+SpiceJet,Banglore,Delhi,2.9166666666666665,0.0,3919,Evening,6
+SpiceJet,Chennai,Kolkata,2.25,0.0,3859,Morning,5
+Air India,Delhi,Cochin,38.25,2.0,10441,Morning,5
+IndiGo,Delhi,Cochin,5.833333333333333,1.0,13628,Morning,3
+Jet Airways,Delhi,Cochin,15.166666666666666,2.0,12609,Evening,6
+Jet Airways,Banglore,New Delhi,8.25,1.0,7832,Morning,3
+Jet Airways,Kolkata,Banglore,25.75,1.0,10844,Evening,5
+Jet Airways,Kolkata,Banglore,26.166666666666668,1.0,12692,Evening,6
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,12242,Night,3
+Vistara,Kolkata,Banglore,16.25,1.0,9345,Morning,5
+Jet Airways,Kolkata,Banglore,11.5,1.0,12121,Morning,5
+Air India,Mumbai,Hyderabad,16.083333333333332,1.0,10366,Morning,3
+SpiceJet,Chennai,Kolkata,2.25,0.0,3597,Morning,6
+IndiGo,Delhi,Cochin,14.916666666666666,1.0,5883,Morning,6
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Noon,4
+IndiGo,Banglore,New Delhi,3.0,0.0,8033,Noon,3
+Air India,Chennai,Kolkata,2.25,0.0,4667,Noon,5
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,5298,Morning,4
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,6
+Air India,Delhi,Cochin,14.583333333333334,1.0,7258,Evening,6
+Air India,Kolkata,Banglore,12.416666666666666,1.0,12173,Evening,3
+Air India,Banglore,New Delhi,12.083333333333334,1.0,10972,Noon,3
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Evening,5
+Jet Airways,Kolkata,Banglore,5.75,1.0,14571,Noon,6
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,6
+Jet Airways,Delhi,Cochin,20.58333333333333,1.0,12898,Evening,5
+Multiple carriers,Delhi,Cochin,6.583333333333333,1.0,15147,Evening,3
+Jet Airways,Kolkata,Banglore,20.33333333333333,1.0,10031,Morning,3
+Air India,Banglore,Delhi,2.75,0.0,7171,Evening,6
+SpiceJet,Delhi,Cochin,4.5,1.0,4812,Morning,4
+Multiple carriers,Delhi,Cochin,9.25,1.0,14153,Noon,3
+Jet Airways,Delhi,Cochin,23.25,1.0,10262,Evening,6
+Jet Airways,Delhi,Cochin,18.75,2.0,10368,Morning,6
+Air India,Banglore,New Delhi,2.833333333333333,0.0,4441,Noon,3
+Jet Airways,Kolkata,Banglore,27.58333333333333,1.0,8529,Morning,6
+Jet Airways,Kolkata,Banglore,28.25,1.0,9663,Evening,5
+Air India,Kolkata,Banglore,20.166666666666668,2.0,11432,Morning,6
+IndiGo,Delhi,Cochin,4.583333333333333,1.0,5073,Morning,4
+Jet Airways,Kolkata,Banglore,18.0,1.0,9314,Evening,5
+Air India,Banglore,New Delhi,16.916666666666668,1.0,10657,Morning,3
+SpiceJet,Chennai,Kolkata,2.25,0.0,3597,Morning,6
+Jet Airways,Banglore,New Delhi,12.083333333333334,1.0,13817,Evening,3
+Jet Airways,Delhi,Cochin,15.0,2.0,16704,Noon,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,3702,Noon,5
+Jet Airways,Kolkata,Banglore,27.666666666666668,1.0,10844,Evening,6
+Jet Airways,Delhi,Cochin,10.0,1.0,12373,Morning,5
+Multiple carriers,Delhi,Cochin,14.083333333333334,1.0,10678,Night,6
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,10851,Night,3
+Jet Airways,Kolkata,Banglore,27.58333333333333,1.0,10844,Evening,5
+SpiceJet,Delhi,Cochin,5.25,1.0,5583,Morning,4
+Jet Airways,Delhi,Cochin,21.58333333333333,1.0,10262,Noon,6
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3873,Morning,5
+Jet Airways,Mumbai,Hyderabad,23.58333333333333,2.0,22950,Evening,3
+Jet Airways,Delhi,Cochin,26.916666666666668,2.0,15129,Morning,5
+Vistara,Banglore,New Delhi,2.6666666666666665,0.0,21730,Evening,3
+SpiceJet,Delhi,Cochin,4.5,1.0,4760,Morning,4
+Jet Airways,Kolkata,Banglore,23.33333333333333,1.0,10844,Evening,5
+Vistara,Banglore,New Delhi,2.6666666666666665,0.0,4563,Evening,3
+Multiple carriers,Delhi,Cochin,9.833333333333334,1.0,11667,Morning,3
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,15129,Evening,5
+SpiceJet,Delhi,Cochin,5.25,1.0,5583,Morning,6
+Jet Airways,Delhi,Cochin,22.0,2.0,13376,Noon,6
+Air India,Kolkata,Banglore,20.0,2.0,14897,Morning,5
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,8855,Evening,3
+Multiple carriers,Delhi,Cochin,6.5,1.0,7530,Evening,6
+Air India,Delhi,Cochin,30.33333333333333,2.0,12436,Noon,5
+IndiGo,Kolkata,Banglore,5.25,1.0,7605,Evening,5
+Jet Airways,Kolkata,Banglore,19.5,1.0,10844,Evening,5
+SpiceJet,Banglore,Delhi,2.833333333333333,0.0,4319,Morning,5
+Jet Airways,Banglore,Delhi,3.0,0.0,6144,Evening,5
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,7006,Evening,5
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,6144,Evening,5
+Jet Airways,Delhi,Cochin,11.916666666666666,1.0,12373,Morning,5
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,6
+Jet Airways,Delhi,Cochin,6.0,1.0,10262,Noon,6
+Jet Airways,Delhi,Cochin,5.0,1.0,16079,Noon,5
+Jet Airways,Delhi,Cochin,16.583333333333332,1.0,7438,Night,3
+Jet Airways,Delhi,Cochin,22.08333333333333,2.0,9296,Morning,3
+IndiGo,Kolkata,Banglore,2.75,0.0,4804,Morning,5
+Jet Airways,Delhi,Cochin,8.416666666666666,2.0,15318,Evening,5
+SpiceJet,Delhi,Cochin,4.5,1.0,4812,Morning,4
+IndiGo,Delhi,Cochin,14.333333333333334,1.0,6093,Morning,6
+IndiGo,Kolkata,Banglore,4.0,1.0,4226,Morning,5
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,13014,Morning,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2227,Evening,6
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4483,Night,4
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,3543,Evening,6
+Air India,Delhi,Cochin,9.5,1.0,8907,Noon,6
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,9794,Morning,5
+Multiple carriers,Delhi,Cochin,14.25,2.0,8291,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4784,Night,3
+Multiple carriers,Delhi,Cochin,10.5,1.0,9205,Morning,5
+Jet Airways,Kolkata,Banglore,24.166666666666668,1.0,10539,Morning,6
+Air Asia,Kolkata,Banglore,2.5,0.0,3807,Night,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Noon,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,8040,Morning,6
+Air India,Kolkata,Banglore,19.916666666666668,2.0,9941,Noon,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,4
+Multiple carriers,Delhi,Cochin,13.916666666666666,1.0,7695,Noon,3
+Air India,Delhi,Cochin,26.08333333333333,1.0,6681,Morning,3
+IndiGo,Banglore,Delhi,3.0,0.0,4990,Evening,4
+Jet Airways,Kolkata,Banglore,14.416666666666666,1.0,9663,Evening,5
+IndiGo,Delhi,Cochin,9.583333333333334,1.0,9264,Evening,3
+Air India,Kolkata,Banglore,26.916666666666668,1.0,10413,Evening,6
+Air Asia,Kolkata,Banglore,15.916666666666666,1.0,5192,Morning,6
+IndiGo,Kolkata,Banglore,5.416666666666667,1.0,6284,Evening,4
+Jet Airways,Kolkata,Banglore,20.33333333333333,1.0,14571,Evening,6
+Jet Airways,Banglore,Delhi,3.0,0.0,4030,Morning,5
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4804,Evening,5
+Multiple carriers,Delhi,Cochin,8.0,1.0,13587,Noon,6
+Jet Airways,Banglore,New Delhi,7.25,1.0,19225,Morning,3
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,10112,Night,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4995,Morning,6
+IndiGo,Delhi,Cochin,16.083333333333332,1.0,6758,Night,5
+Air India,Chennai,Kolkata,2.25,0.0,4667,Noon,6
+IndiGo,Banglore,New Delhi,2.9166666666666665,0.0,6860,Evening,3
+IndiGo,Delhi,Cochin,14.083333333333334,1.0,6270,Noon,4
+Jet Airways,Banglore,New Delhi,14.333333333333334,1.0,31825,Evening,3
+Air Asia,Kolkata,Banglore,11.833333333333334,1.0,5320,Morning,5
+Jet Airways,Delhi,Cochin,5.5,1.0,14924,Morning,6
+Air India,Delhi,Cochin,24.83333333333333,2.0,14431,Morning,5
+Air India,Banglore,Delhi,2.833333333333333,0.0,6961,Noon,6
+Jet Airways,Delhi,Cochin,38.333333333333336,2.0,9254,Morning,3
+Air India,Kolkata,Banglore,26.666666666666668,2.0,15170,Morning,5
+SpiceJet,Delhi,Cochin,4.916666666666667,1.0,4957,Evening,4
+Jet Airways,Delhi,Cochin,15.416666666666666,1.0,10262,Noon,6
+Multiple carriers,Delhi,Cochin,6.5,1.0,6795,Evening,6
+Jet Airways,Mumbai,Hyderabad,21.0,2.0,24210,Evening,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,5277,Night,3
+IndiGo,Banglore,Delhi,3.083333333333333,0.0,4823,Evening,6
+Jet Airways,Delhi,Cochin,13.75,1.0,10262,Night,6
+Air India,Delhi,Cochin,16.833333333333332,1.0,7174,Morning,4
+IndiGo,Delhi,Cochin,15.666666666666666,1.0,6442,Morning,3
+Air India,Kolkata,Banglore,15.083333333333334,1.0,8366,Evening,5
+Air India,Delhi,Cochin,23.25,1.0,8372,Evening,6
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2017,Morning,5
+Jet Airways,Kolkata,Banglore,16.0,1.0,14571,Evening,5
+Air India,Kolkata,Banglore,15.333333333333334,2.0,13033,Morning,5
+Jet Airways,Kolkata,Banglore,26.83333333333333,1.0,9663,Morning,5
+Jet Airways,Delhi,Cochin,15.416666666666666,1.0,6960,Noon,3
+Jet Airways,Kolkata,Banglore,12.5,1.0,14781,Morning,5
+Jet Airways,Delhi,Cochin,13.416666666666666,1.0,10262,Noon,6
+Vistara,Banglore,New Delhi,27.75,1.0,12476,Morning,3
+Jet Airways,Kolkata,Banglore,8.666666666666666,1.0,13731,Evening,5
+Jet Airways,Kolkata,Banglore,18.0,1.0,10539,Evening,6
+IndiGo,Delhi,Cochin,4.583333333333333,1.0,5054,Morning,6
+IndiGo,Delhi,Cochin,14.083333333333334,1.0,5883,Noon,6
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,5054,Evening,6
+Air India,Banglore,New Delhi,15.416666666666666,2.0,13355,Evening,3
+Multiple carriers,Delhi,Cochin,13.0,1.0,9794,Morning,5
+Jet Airways,Kolkata,Banglore,9.75,1.0,7064,Evening,4
+Jet Airways,Delhi,Cochin,5.0,1.0,12898,Noon,5
+Jet Airways,Kolkata,Banglore,20.166666666666668,1.0,14231,Noon,3
+Air India,Delhi,Cochin,26.33333333333333,2.0,10975,Morning,6
+Air India,Delhi,Cochin,14.583333333333334,1.0,7468,Evening,6
+Multiple carriers,Delhi,Cochin,9.0,1.0,6513,Morning,5
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,12373,Night,5
+GoAir,Delhi,Cochin,9.0,1.0,6922,Morning,4
+Jet Airways,Kolkata,Banglore,24.166666666666668,1.0,9314,Morning,5
+Jet Airways,Delhi,Cochin,23.08333333333333,1.0,14053,Evening,3
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4804,Evening,6
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,10844,Morning,6
+Jet Airways,Kolkata,Banglore,25.75,1.0,10844,Evening,5
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,8016,Evening,6
+IndiGo,Delhi,Cochin,16.25,1.0,6628,Morning,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Night,4
+IndiGo,Delhi,Cochin,3.25,0.0,4729,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Morning,6
+SpiceJet,Kolkata,Banglore,2.4166666666666665,0.0,3873,Morning,6
+Jet Airways,Kolkata,Banglore,11.5,1.0,13994,Morning,6
+Air Asia,Kolkata,Banglore,3.583333333333333,1.0,6857,Evening,6
+Jet Airways,Kolkata,Banglore,9.5,1.0,14781,Noon,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,6
+Jet Airways,Kolkata,Banglore,28.166666666666668,1.0,13584,Noon,5
+Multiple carriers,Delhi,Cochin,6.416666666666667,1.0,9001,Noon,6
+Air India,Kolkata,Banglore,16.083333333333332,1.0,4647,Evening,4
+Air India,Delhi,Cochin,12.25,1.0,8669,Morning,5
+IndiGo,Kolkata,Banglore,5.0,1.0,4176,Night,5
+IndiGo,Delhi,Cochin,7.583333333333333,1.0,6442,Morning,6
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Night,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Evening,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Night,4
+Air India,Banglore,New Delhi,8.75,1.0,14594,Noon,3
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,8586,Evening,5
+Jet Airways,Delhi,Cochin,13.5,2.0,10368,Morning,6
+IndiGo,Kolkata,Banglore,5.333333333333333,1.0,6991,Noon,5
+Air India,Kolkata,Banglore,20.916666666666668,2.0,11752,Evening,6
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4050,Night,6
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,15129,Evening,5
+Jet Airways,Delhi,Cochin,25.5,1.0,14714,Evening,6
+SpiceJet,Kolkata,Banglore,2.4166666666666665,0.0,3841,Morning,4
+Jet Airways,Delhi,Cochin,17.083333333333332,2.0,13014,Evening,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Noon,6
+Air India,Delhi,Cochin,19.666666666666668,2.0,9653,Noon,5
+Air India,Kolkata,Banglore,20.166666666666668,2.0,12352,Morning,3
+Jet Airways,Kolkata,Banglore,16.25,1.0,11134,Evening,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4392,Morning,5
+Air India,Delhi,Cochin,9.25,1.0,9194,Morning,6
+IndiGo,Delhi,Cochin,14.333333333333334,1.0,12351,Morning,3
+Jet Airways,Kolkata,Banglore,22.08333333333333,1.0,13067,Evening,5
+Jet Airways,Kolkata,Banglore,9.5,1.0,10844,Noon,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4050,Night,6
+Air India,Chennai,Kolkata,2.25,0.0,4667,Noon,6
+Jet Airways Business,Banglore,New Delhi,4.666666666666667,1.0,57209,Morning,3
+Air India,Banglore,New Delhi,12.083333333333334,1.0,5092,Noon,3
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4282,Night,5
+Jet Airways,Delhi,Cochin,20.416666666666668,1.0,10577,Morning,6
+Vistara,Chennai,Kolkata,2.25,0.0,6627,Morning,3
+Jet Airways,Kolkata,Banglore,25.0,1.0,14151,Evening,5
+SpiceJet,Banglore,Delhi,2.833333333333333,0.0,3573,Morning,6
+Multiple carriers,Delhi,Cochin,7.333333333333333,1.0,14086,Evening,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,3175,Evening,6
+IndiGo,Delhi,Cochin,5.0,1.0,6069,Evening,5
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,5298,Morning,4
+Vistara,Kolkata,Banglore,17.75,1.0,9187,Evening,5
+Jet Airways,Mumbai,Hyderabad,1.3333333333333333,0.0,5678,Night,3
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,6805,Noon,5
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4282,Night,4
+Air India,Kolkata,Banglore,11.25,1.0,7795,Morning,3
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,5
+IndiGo,Banglore,Delhi,2.75,0.0,4423,Morning,4
+Jet Airways,Delhi,Cochin,23.25,1.0,15554,Evening,5
+Air India,Kolkata,Banglore,25.916666666666668,2.0,6117,Morning,5
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,7295,Noon,3
+Jet Airways,Kolkata,Banglore,21.916666666666668,1.0,14388,Noon,5
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3809,Evening,5
+Multiple carriers,Delhi,Cochin,13.833333333333334,1.0,7530,Noon,6
+Jet Airways,Delhi,Cochin,22.08333333333333,2.0,11538,Morning,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,4174,Evening,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,4
+SpiceJet,Banglore,New Delhi,7.916666666666667,1.0,23267,Morning,3
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Evening,5
+Multiple carriers,Delhi,Cochin,13.0,1.0,7408,Morning,6
+IndiGo,Delhi,Cochin,16.25,1.0,7503,Morning,5
+Air India,Delhi,Cochin,38.0,3.0,10703,Morning,6
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3873,Morning,4
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4284,Night,5
+Air India,Kolkata,Banglore,9.666666666666666,1.0,6117,Evening,5
+Air Asia,Kolkata,Banglore,2.5,0.0,3807,Night,4
+Jet Airways,Kolkata,Banglore,27.166666666666668,1.0,10953,Evening,5
+GoAir,Banglore,New Delhi,4.5,1.0,12314,Noon,3
+Multiple carriers,Delhi,Cochin,8.5,1.0,8073,Evening,5
+Multiple carriers,Delhi,Cochin,13.0,1.0,12524,Morning,6
+SpiceJet,Delhi,Cochin,6.333333333333333,1.0,7317,Noon,5
+Air India,Banglore,New Delhi,10.5,2.0,7664,Morning,3
+Multiple carriers,Delhi,Cochin,7.0,1.0,13727,Noon,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,3342,Night,3
+IndiGo,Delhi,Cochin,10.416666666666666,1.0,6674,Noon,3
+SpiceJet,Delhi,Cochin,4.916666666666667,1.0,5409,Evening,6
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14388,Evening,5
+Jet Airways,Banglore,New Delhi,17.5,1.0,25735,Evening,3
+Vistara,Kolkata,Banglore,24.0,1.0,8452,Evening,4
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,12819,Night,6
+SpiceJet,Mumbai,Hyderabad,1.4166666666666667,0.0,2647,Night,3
+Jet Airways,Delhi,Cochin,13.5,2.0,12819,Night,6
+Jet Airways,Delhi,Cochin,23.58333333333333,1.0,12373,Noon,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,5
+IndiGo,Delhi,Cochin,7.083333333333333,1.0,6287,Morning,4
+Jet Airways,Delhi,Cochin,18.25,2.0,14300,Evening,6
+Air India,Banglore,New Delhi,16.5,1.0,11602,Morning,3
+Jet Airways,Delhi,Cochin,11.0,1.0,12239,Morning,5
+Jet Airways,Delhi,Cochin,28.416666666666668,2.0,14300,Morning,6
+SpiceJet,Mumbai,Hyderabad,1.3333333333333333,0.0,4129,Morning,3
+Jet Airways,Delhi,Cochin,23.666666666666668,2.0,9483,Evening,3
+Air India,Kolkata,Banglore,26.75,1.0,10808,Evening,3
+Jet Airways,Kolkata,Banglore,24.166666666666668,1.0,14151,Morning,5
+Air India,Delhi,Cochin,18.58333333333333,2.0,8892,Noon,3
+IndiGo,Chennai,Kolkata,2.4166666666666665,0.0,3540,Morning,6
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,6860,Morning,3
+Jet Airways,Delhi,Cochin,27.0,1.0,10262,Evening,6
+Air India,Kolkata,Banglore,20.166666666666668,2.0,11432,Morning,5
+IndiGo,Kolkata,Banglore,2.5,0.0,5224,Noon,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Night,4
+Multiple carriers,Delhi,Cochin,13.0,1.0,13259,Morning,6
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4174,Evening,4
+Multiple carriers,Delhi,Cochin,11.0,1.0,10197,Morning,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,4544,Noon,5
+IndiGo,Delhi,Cochin,9.583333333333334,1.0,14871,Evening,3
+Air Asia,Kolkata,Banglore,15.916666666666666,1.0,5192,Morning,4
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,7060,Evening,6
+Vistara,Kolkata,Banglore,11.666666666666666,1.0,9345,Morning,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,5780,Evening,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,5224,Noon,5
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4148,Evening,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,8040,Morning,3
+Jet Airways,Kolkata,Banglore,24.916666666666668,2.0,10118,Morning,5
+Air India,Kolkata,Banglore,19.416666666666668,2.0,15107,Morning,5
+Jet Airways,Kolkata,Banglore,8.666666666666666,1.0,12576,Evening,6
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,12996,Morning,4
+Air India,Delhi,Cochin,12.75,1.0,5117,Evening,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,5224,Noon,4
+IndiGo,Delhi,Cochin,7.083333333333333,1.0,6818,Morning,5
+Jet Airways,Kolkata,Banglore,9.5,1.0,15149,Noon,5
+Air India,Mumbai,Hyderabad,31.83333333333333,2.0,17926,Noon,3
+Jet Airways,Delhi,Cochin,16.916666666666668,1.0,13843,Noon,3
+Air India,Kolkata,Banglore,28.33333333333333,2.0,11542,Morning,5
+IndiGo,Delhi,Cochin,10.75,1.0,13611,Night,3
+IndiGo,Delhi,Cochin,15.666666666666666,1.0,6674,Morning,5
+Jet Airways,Banglore,New Delhi,17.25,1.0,7832,Morning,3
+Air India,Kolkata,Banglore,30.5,2.0,10676,Noon,5
+Jet Airways,Kolkata,Banglore,20.25,1.0,13731,Morning,6
+SpiceJet,Kolkata,Banglore,2.6666666666666665,0.0,3847,Morning,3
+Jet Airways,Delhi,Cochin,7.333333333333333,1.0,12242,Noon,3
+Multiple carriers,Delhi,Cochin,6.416666666666667,1.0,9646,Morning,5
+Multiple carriers,Delhi,Cochin,9.25,1.0,8888,Noon,5
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4077,Night,6
+Air India,Banglore,New Delhi,26.58333333333333,1.0,12704,Morning,3
+IndiGo,Delhi,Cochin,10.25,1.0,6838,Morning,3
+Air India,Mumbai,Hyderabad,1.4166666666666667,0.0,3100,Noon,6
+Jet Airways,Kolkata,Banglore,21.416666666666668,1.0,13067,Evening,5
+Air India,Kolkata,Banglore,30.666666666666668,2.0,12723,Morning,5
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,16704,Evening,5
+Jet Airways,Banglore,New Delhi,22.75,1.0,7412,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5833333333333333,0.0,2227,Evening,5
+IndiGo,Delhi,Cochin,6.333333333333333,1.0,9709,Morning,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,13469,Evening,6
+Jet Airways,Kolkata,Banglore,8.416666666666666,1.0,14151,Morning,5
+IndiGo,Delhi,Cochin,4.833333333333333,1.0,6493,Noon,6
+Air India,Delhi,Cochin,26.58333333333333,2.0,9653,Evening,6
+GoAir,Banglore,Delhi,2.75,0.0,3898,Evening,4
+Air India,Banglore,Delhi,2.75,0.0,6961,Morning,6
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,14781,Evening,5
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3384,Morning,3
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,6
+Jet Airways,Kolkata,Banglore,27.166666666666668,1.0,14151,Evening,6
+Jet Airways,Delhi,Cochin,22.75,2.0,13764,Morning,3
+Jet Airways,Kolkata,Banglore,22.75,1.0,9314,Evening,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,6461,Evening,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3100,Morning,3
+GoAir,Banglore,Delhi,2.9166666666666665,0.0,4632,Morning,4
+Multiple carriers,Delhi,Cochin,6.5,1.0,7670,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5769,Noon,6
+Jet Airways,Delhi,Cochin,12.916666666666666,1.0,16289,Morning,3
+Air India,Delhi,Cochin,2.833333333333333,0.0,5201,Morning,6
+IndiGo,Banglore,New Delhi,2.75,0.0,4545,Night,3
+Air India,Delhi,Cochin,24.75,2.0,18211,Evening,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Noon,4
+Multiple carriers,Delhi,Cochin,14.333333333333334,1.0,7155,Night,6
+Jet Airways,Kolkata,Banglore,14.166666666666666,1.0,10844,Morning,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Noon,6
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,5883,Evening,6
+Jet Airways,Delhi,Cochin,20.58333333333333,1.0,10262,Evening,6
+Jet Airways,Kolkata,Banglore,14.583333333333334,1.0,8586,Noon,5
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,14388,Evening,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,3175,Night,3
+SpiceJet,Delhi,Cochin,4.916666666666667,1.0,4611,Evening,4
+IndiGo,Delhi,Cochin,5.0,1.0,7894,Morning,3
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,14781,Morning,5
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Noon,6
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,3383,Night,5
+Air India,Kolkata,Banglore,30.5,2.0,9258,Noon,4
+IndiGo,Delhi,Cochin,9.333333333333334,1.0,6442,Morning,6
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,15129,Night,5
+Air India,Kolkata,Banglore,16.0,1.0,12173,Evening,3
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,14388,Evening,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,6
+Jet Airways,Delhi,Cochin,16.833333333333332,1.0,10262,Evening,6
+Multiple carriers,Delhi,Cochin,12.5,1.0,7198,Noon,6
+IndiGo,Mumbai,Hyderabad,1.5833333333333333,0.0,2227,Evening,5
+Multiple carriers,Delhi,Cochin,9.0,1.0,10197,Morning,5
+IndiGo,Delhi,Cochin,5.75,1.0,7060,Night,3
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,9103,Noon,5
+Air India,Kolkata,Banglore,23.58333333333333,2.0,10697,Morning,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4990,Evening,4
+Jet Airways,Kolkata,Banglore,5.75,1.0,14781,Noon,5
+Jet Airways,Kolkata,Banglore,18.166666666666668,1.0,13044,Noon,6
+Air India,Kolkata,Banglore,19.5,2.0,6117,Morning,5
+Air India,Kolkata,Banglore,27.08333333333333,2.0,12723,Morning,5
+Air India,Kolkata,Banglore,15.083333333333334,1.0,8576,Evening,5
+Jet Airways,Banglore,Delhi,3.0,0.0,8016,Morning,6
+Jet Airways,Delhi,Cochin,13.833333333333334,2.0,10919,Noon,6
+Jet Airways,Kolkata,Banglore,27.166666666666668,1.0,14151,Evening,5
+Jet Airways,Delhi,Cochin,26.916666666666668,2.0,10368,Morning,6
+Air India,Delhi,Cochin,23.666666666666668,2.0,10975,Morning,6
+Jet Airways,Kolkata,Banglore,12.25,1.0,13941,Evening,5
+Air India,Mumbai,Hyderabad,1.25,0.0,2050,Evening,4
+Multiple carriers,Delhi,Cochin,11.5,1.0,10877,Morning,6
+Multiple carriers,Delhi,Cochin,12.0,1.0,7408,Morning,6
+Air India,Delhi,Cochin,14.416666666666666,2.0,13039,Evening,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Night,6
+GoAir,Delhi,Cochin,5.166666666666667,1.0,7870,Noon,6
+Air India,Kolkata,Banglore,20.916666666666668,2.0,13484,Evening,5
+Multiple carriers,Delhi,Cochin,6.25,1.0,14533,Noon,5
+IndiGo,Kolkata,Banglore,2.75,0.0,4804,Evening,6
+Jet Airways,Delhi,Cochin,15.166666666666666,2.0,9905,Evening,6
+Jet Airways,Delhi,Cochin,29.33333333333333,2.0,15129,Night,5
+Jet Airways,Delhi,Cochin,16.75,1.0,15554,Night,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Morning,5
+Jet Airways,Kolkata,Banglore,20.58333333333333,1.0,10031,Evening,3
+IndiGo,Delhi,Cochin,14.916666666666666,1.0,7514,Morning,5
+Air India,Delhi,Cochin,20.166666666666668,2.0,8839,Noon,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3815,Evening,3
+Air India,Banglore,New Delhi,15.333333333333334,1.0,8425,Night,3
+SpiceJet,Delhi,Cochin,5.25,1.0,5583,Morning,6
+Air India,Delhi,Cochin,27.33333333333333,1.0,7952,Morning,6
+Jet Airways,Kolkata,Banglore,18.166666666666668,1.0,9663,Noon,5
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,4
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Night,6
+Vistara,Banglore,New Delhi,2.583333333333333,0.0,11913,Evening,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Morning,6
+Jet Airways,Delhi,Cochin,5.0,1.0,10262,Noon,6
+GoAir,Delhi,Cochin,6.166666666666667,1.0,6841,Morning,5
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4145,Evening,5
+Air India,Kolkata,Banglore,17.25,2.0,15164,Evening,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Noon,4
+Jet Airways,Delhi,Cochin,24.75,1.0,10262,Evening,6
+Multiple carriers,Delhi,Cochin,7.833333333333333,1.0,7997,Noon,5
+Vistara,Kolkata,Banglore,13.166666666666666,1.0,8610,Morning,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,4
+GoAir,Banglore,Delhi,2.75,0.0,4239,Evening,4
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3873,Night,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Evening,3
+Air India,Delhi,Cochin,21.25,2.0,10231,Night,6
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,12692,Evening,6
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4145,Evening,6
+Air India,Banglore,New Delhi,38.583333333333336,2.0,25430,Morning,3
+Jet Airways,Banglore,New Delhi,26.416666666666668,1.0,11087,Morning,3
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2175,Noon,5
+Jet Airways,Delhi,Cochin,10.166666666666666,1.0,10262,Evening,6
+Jet Airways,Delhi,Cochin,15.166666666666666,2.0,11507,Evening,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,5277,Night,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3100,Morning,5
+Multiple carriers,Delhi,Cochin,10.666666666666666,1.0,7005,Morning,5
+Jet Airways,Delhi,Cochin,30.75,2.0,14300,Noon,6
+Jet Airways,Delhi,Cochin,14.416666666666666,1.0,7438,Noon,3
+Jet Airways,Delhi,Cochin,10.166666666666666,1.0,14714,Evening,6
+Jet Airways,Delhi,Cochin,7.083333333333333,2.0,14441,Morning,6
+Air India,Delhi,Cochin,23.5,2.0,10441,Evening,6
+Air India,Banglore,New Delhi,29.5,4.0,17686,Morning,3
+Jet Airways,Delhi,Cochin,28.0,1.0,10262,Noon,6
+IndiGo,Kolkata,Banglore,2.75,0.0,6565,Morning,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,3815,Morning,3
+SpiceJet,Kolkata,Banglore,2.4166666666666665,0.0,4174,Morning,4
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,14388,Evening,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Evening,6
+Air India,Delhi,Cochin,14.583333333333334,1.0,8151,Evening,5
+Air India,Delhi,Cochin,23.666666666666668,1.0,5117,Morning,4
+Multiple carriers,Delhi,Cochin,7.333333333333333,1.0,12327,Evening,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Night,6
+GoAir,Delhi,Cochin,5.916666666666667,1.0,6195,Morning,4
+Multiple carriers,Delhi,Cochin,8.5,1.0,7408,Evening,6
+IndiGo,Delhi,Cochin,4.833333333333333,1.0,6147,Noon,5
+Jet Airways,Delhi,Cochin,17.333333333333332,1.0,10262,Evening,6
+Air India,Delhi,Cochin,38.25,2.0,9653,Morning,5
+Jet Airways,Kolkata,Banglore,20.25,1.0,8586,Morning,6
+Jet Airways,Delhi,Cochin,23.0,2.0,14300,Evening,6
+Vistara,Banglore,Delhi,2.75,0.0,4878,Evening,5
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,14781,Evening,5
+Vistara,Chennai,Kolkata,2.333333333333333,0.0,11982,Evening,5
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,10844,Morning,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+SpiceJet,Chennai,Kolkata,2.25,0.0,3859,Morning,5
+Air India,Delhi,Cochin,20.75,2.0,11753,Morning,6
+Multiple carriers,Delhi,Cochin,6.583333333333333,1.0,13259,Morning,6
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,4
+IndiGo,Delhi,Cochin,16.083333333333332,1.0,6093,Night,6
+Air India,Delhi,Cochin,21.25,2.0,10231,Night,5
+Air India,Banglore,New Delhi,26.0,1.0,5626,Morning,3
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2753,Morning,6
+Jet Airways,Banglore,New Delhi,12.5,1.0,13817,Night,3
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,6
+Jet Airways,Delhi,Cochin,21.58333333333333,1.0,10262,Noon,6
+Jet Airways,Kolkata,Banglore,24.166666666666668,1.0,12692,Morning,6
+Jet Airways,Delhi,Cochin,20.416666666666668,1.0,10262,Morning,6
+Jet Airways,Banglore,New Delhi,13.0,1.0,7832,Evening,3
+IndiGo,Chennai,Kolkata,2.25,0.0,7295,Noon,3
+SpiceJet,Banglore,Delhi,2.6666666666666665,0.0,3625,Morning,6
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,5
+Jet Airways,Delhi,Cochin,11.0,1.0,11399,Morning,5
+SpiceJet,Banglore,New Delhi,8.083333333333334,1.0,7744,Noon,3
+Jet Airways,Banglore,New Delhi,11.416666666666666,1.0,26890,Morning,3
+Air India,Banglore,New Delhi,2.75,0.0,4441,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,6
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3100,Morning,6
+Jet Airways,Delhi,Cochin,14.416666666666666,1.0,12373,Noon,5
+Jet Airways,Kolkata,Banglore,5.5,1.0,9663,Morning,5
+Jet Airways,Delhi,Cochin,17.333333333333332,1.0,12373,Evening,5
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,10844,Morning,5
+Multiple carriers,Delhi,Cochin,7.75,1.0,5797,Evening,6
+Jet Airways,Kolkata,Banglore,7.25,1.0,5608,Morning,5
+Multiple carriers,Delhi,Cochin,11.0,1.0,12192,Morning,6
+GoAir,Delhi,Cochin,5.166666666666667,1.0,9069,Noon,6
+IndiGo,Kolkata,Banglore,5.25,1.0,5930,Evening,6
+Air India,Delhi,Cochin,24.83333333333333,2.0,13381,Morning,6
+Jet Airways,Delhi,Cochin,13.416666666666666,1.0,12373,Noon,5
+Jet Airways,Delhi,Cochin,17.083333333333332,2.0,13014,Evening,6
+Jet Airways,Kolkata,Banglore,7.083333333333333,1.0,11841,Evening,5
+Air India,Delhi,Cochin,9.5,1.0,8907,Noon,6
+Jet Airways,Kolkata,Banglore,16.833333333333332,1.0,9663,Evening,5
+Air India,Delhi,Cochin,26.58333333333333,2.0,8236,Evening,3
+Jet Airways,Delhi,Cochin,21.666666666666668,2.0,13376,Morning,6
+Air India,Banglore,New Delhi,6.166666666666667,1.0,11628,Evening,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Noon,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+Jet Airways,Delhi,Cochin,9.166666666666666,1.0,10262,Evening,6
+Air Asia,Kolkata,Banglore,2.5,0.0,3807,Evening,4
+Jet Airways,Kolkata,Banglore,19.25,1.0,9663,Noon,5
+Multiple carriers,Delhi,Cochin,10.25,1.0,9794,Morning,5
+Air Asia,Kolkata,Banglore,15.916666666666666,1.0,6810,Morning,6
+Jet Airways,Delhi,Cochin,15.416666666666666,1.0,15764,Noon,3
+GoAir,Banglore,New Delhi,2.9166666666666665,0.0,7305,Noon,3
+Jet Airways,Delhi,Cochin,3.25,0.0,9564,Noon,5
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3574,Evening,5
+Jet Airways,Kolkata,Banglore,11.083333333333334,1.0,13364,Evening,4
+Jet Airways,Delhi,Cochin,10.0,1.0,10675,Morning,5
+Multiple carriers,Delhi,Cochin,12.0,1.0,12192,Morning,6
+Jet Airways,Delhi,Cochin,7.333333333333333,2.0,18804,Noon,6
+IndiGo,Delhi,Cochin,8.833333333333334,1.0,8574,Morning,3
+Jet Airways,Banglore,New Delhi,14.333333333333334,1.0,27992,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2227,Evening,3
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,8586,Evening,5
+Jet Airways,Delhi,Cochin,13.5,2.0,15129,Morning,5
+IndiGo,Banglore,Delhi,2.75,0.0,4077,Night,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4392,Noon,5
+Jet Airways,Delhi,Cochin,10.833333333333334,1.0,12242,Morning,3
+Jet Airways,Delhi,Cochin,29.33333333333333,2.0,11150,Night,6
+Air India,Mumbai,Hyderabad,4.25,2.0,17327,Evening,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,6565,Noon,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4050,Evening,3
+Jet Airways,Banglore,New Delhi,13.333333333333334,1.0,27992,Morning,3
+IndiGo,Delhi,Cochin,12.75,2.0,8146,Morning,3
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4423,Night,4
+IndiGo,Delhi,Cochin,3.25,0.0,5601,Morning,6
+Multiple carriers,Delhi,Cochin,8.0,1.0,14067,Noon,5
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,7575,Morning,5
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,4
+Air India,Delhi,Cochin,12.75,1.0,7480,Evening,5
+Jet Airways,Delhi,Cochin,17.083333333333332,2.0,13029,Evening,5
+Jet Airways,Delhi,Cochin,24.33333333333333,2.0,14300,Noon,6
+SpiceJet,Banglore,New Delhi,2.833333333333333,0.0,6205,Evening,3
+Jet Airways,Delhi,Cochin,29.83333333333333,2.0,10919,Morning,6
+Multiple carriers,Delhi,Cochin,10.666666666666666,1.0,7215,Morning,3
+Jet Airways,Delhi,Cochin,17.416666666666668,2.0,15129,Evening,5
+Multiple carriers,Delhi,Cochin,9.416666666666666,3.0,16294,Noon,5
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,5054,Evening,5
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,15129,Night,5
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,10262,Night,6
+Vistara,Kolkata,Banglore,24.0,1.0,8085,Evening,6
+Air India,Kolkata,Banglore,2.583333333333333,0.0,4435,Evening,3
+Jet Airways,Kolkata,Banglore,14.583333333333334,1.0,8586,Noon,5
+Air India,Banglore,New Delhi,2.833333333333333,0.0,9481,Evening,3
+Vistara,Banglore,New Delhi,2.6666666666666665,0.0,7923,Evening,3
+Jet Airways,Kolkata,Banglore,11.75,1.0,10844,Morning,5
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,4544,Noon,5
+Multiple carriers,Delhi,Cochin,10.25,1.0,12524,Morning,6
+Jet Airways,Delhi,Cochin,21.58333333333333,2.0,11507,Evening,6
+IndiGo,Delhi,Cochin,6.333333333333333,1.0,7640,Evening,5
+Jet Airways,Delhi,Cochin,22.08333333333333,1.0,10577,Evening,6
+Multiple carriers,Delhi,Cochin,15.0,1.0,7740,Morning,6
+Multiple carriers,Delhi,Cochin,8.833333333333334,1.0,16497,Morning,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,5678,Night,5
+Jet Airways,Kolkata,Banglore,16.0,1.0,9663,Evening,5
+IndiGo,Delhi,Cochin,5.75,1.0,8238,Evening,6
+SpiceJet,Banglore,New Delhi,2.9166666666666665,0.0,4273,Morning,3
+Air India,Kolkata,Banglore,6.25,1.0,10203,Morning,5
+Jet Airways,Banglore,New Delhi,10.416666666666666,1.0,26890,Morning,3
+Jet Airways,Delhi,Cochin,13.333333333333334,1.0,6017,Noon,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Morning,5
+IndiGo,Delhi,Cochin,16.25,1.0,8854,Morning,5
+Jet Airways,Delhi,Cochin,11.916666666666666,1.0,16289,Morning,5
+Jet Airways,Banglore,New Delhi,25.83333333333333,1.0,11087,Morning,3
+Vistara,Kolkata,Banglore,25.83333333333333,1.0,9135,Evening,5
+IndiGo,Delhi,Cochin,8.583333333333334,1.0,6442,Morning,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,3210,Evening,6
+GoAir,Kolkata,Banglore,8.25,1.0,6095,Night,5
+Jet Airways,Delhi,Cochin,16.833333333333332,1.0,10577,Evening,6
+Jet Airways,Delhi,Cochin,29.58333333333333,2.0,15129,Noon,5
+Vistara,Kolkata,Banglore,29.166666666666668,1.0,12102,Evening,3
+Air India,Delhi,Cochin,14.583333333333334,1.0,11038,Evening,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4462,Noon,3
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,15129,Evening,5
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,6953,Noon,3
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,6
+Vistara,Kolkata,Banglore,13.166666666666666,1.0,8610,Morning,5
+IndiGo,Delhi,Cochin,12.583333333333334,1.0,14871,Morning,3
+Multiple carriers,Delhi,Cochin,8.916666666666666,1.0,15353,Morning,3
+Jet Airways,Kolkata,Banglore,5.75,1.0,14231,Noon,3
+SpiceJet,Delhi,Cochin,6.0,1.0,5511,Noon,3
+Air India,Chennai,Kolkata,2.25,0.0,7082,Noon,3
+IndiGo,Kolkata,Banglore,5.416666666666667,1.0,6704,Evening,5
+Air India,Delhi,Cochin,20.916666666666668,1.0,5117,Noon,4
+Air India,Banglore,Delhi,2.75,0.0,4651,Evening,4
+Multiple carriers,Delhi,Cochin,9.333333333333334,1.0,6637,Noon,3
+Multiple carriers,Delhi,Cochin,10.5,1.0,11622,Morning,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3815,Morning,3
+Air Asia,Kolkata,Banglore,2.5,0.0,4107,Night,5
+IndiGo,Banglore,New Delhi,5.0,1.0,9165,Noon,3
+Air India,Banglore,New Delhi,2.833333333333333,0.0,12526,Noon,3
+Multiple carriers,Delhi,Cochin,11.5,1.0,10529,Morning,5
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,3838,Evening,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,4
+SpiceJet,Banglore,New Delhi,2.833333333333333,0.0,6860,Evening,3
+Multiple carriers,Delhi,Cochin,12.0,1.0,7933,Morning,6
+Multiple carriers,Delhi,Cochin,15.0,1.0,7670,Morning,5
+Jet Airways,Delhi,Cochin,21.666666666666668,2.0,13376,Morning,6
+Vistara,Kolkata,Banglore,12.75,1.0,7980,Evening,4
+Jet Airways,Delhi,Cochin,20.166666666666668,1.0,16079,Night,5
+Multiple carriers,Delhi,Cochin,14.083333333333334,1.0,11573,Night,5
+Multiple carriers,Delhi,Cochin,14.166666666666666,1.0,14086,Morning,3
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,10844,Evening,5
+Multiple carriers,Delhi,Cochin,10.083333333333334,1.0,15077,Morning,3
+Air India,Banglore,New Delhi,16.333333333333332,2.0,9796,Morning,3
+GoAir,Delhi,Cochin,5.916666666666667,1.0,5281,Morning,6
+Multiple carriers,Delhi,Cochin,11.5,1.0,13377,Noon,6
+Jet Airways,Delhi,Cochin,12.416666666666666,1.0,10262,Evening,6
+IndiGo,Delhi,Cochin,13.5,1.0,6416,Morning,6
+Air India,Kolkata,Banglore,13.416666666666666,2.0,14960,Morning,6
+Multiple carriers,Delhi,Cochin,6.5,1.0,6795,Evening,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,4174,Evening,5
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Night,4
+Jet Airways,Kolkata,Banglore,23.58333333333333,1.0,10844,Evening,5
+Jet Airways,Delhi,Cochin,9.333333333333334,2.0,10368,Morning,6
+Jet Airways,Delhi,Cochin,26.58333333333333,1.0,12373,Morning,5
+IndiGo,Delhi,Cochin,8.0,1.0,5684,Evening,6
+Air India,Delhi,Cochin,12.666666666666666,1.0,8372,Evening,6
+Multiple carriers,Delhi,Cochin,12.666666666666666,1.0,34273,Noon,5
+Jet Airways,Kolkata,Banglore,6.666666666666667,1.0,10844,Noon,5
+Air India,Delhi,Cochin,38.25,2.0,9968,Morning,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,7229,Noon,5
+IndiGo,Banglore,Delhi,2.75,0.0,4077,Night,6
+Jet Airways,Kolkata,Banglore,6.083333333333333,1.0,10844,Evening,6
+IndiGo,Delhi,Cochin,12.75,2.0,8049,Morning,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Morning,6
+Multiple carriers,Delhi,Cochin,13.25,1.0,7268,Morning,6
+Multiple carriers,Delhi,Cochin,8.166666666666666,1.0,7005,Noon,6
+Multiple carriers,Delhi,Cochin,7.083333333333333,1.0,17057,Noon,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,6
+Jet Airways,Delhi,Cochin,22.75,2.0,9181,Morning,3
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2754,Noon,6
+Air India,Banglore,New Delhi,24.83333333333333,1.0,11528,Morning,3
+Multiple carriers,Delhi,Cochin,10.25,1.0,10197,Morning,5
+GoAir,Banglore,New Delhi,2.9166666666666665,0.0,11111,Noon,3
+Multiple carriers,Delhi,Cochin,10.75,1.0,9149,Morning,5
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,6573,Evening,4
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3597,Evening,5
+Air India,Banglore,Delhi,2.75,0.0,6961,Morning,6
+Multiple carriers,Delhi,Cochin,13.0,1.0,7408,Morning,6
+SpiceJet,Chennai,Kolkata,2.583333333333333,0.0,6300,Morning,3
+IndiGo,Delhi,Cochin,10.75,1.0,7738,Night,3
+Air India,Kolkata,Banglore,9.25,1.0,11936,Morning,6
+Jet Airways,Delhi,Cochin,21.666666666666668,2.0,13376,Morning,6
+Jet Airways,Banglore,New Delhi,7.0,2.0,16338,Morning,3
+Jet Airways,Delhi,Cochin,21.58333333333333,1.0,10262,Noon,6
+Jet Airways,Delhi,Cochin,9.333333333333334,2.0,15129,Morning,5
+Vistara,Banglore,Delhi,2.75,0.0,5088,Evening,6
+SpiceJet,Chennai,Kolkata,2.25,0.0,3543,Morning,6
+Jet Airways,Banglore,Delhi,2.75,0.0,5769,Morning,6
+Air India,Delhi,Cochin,6.25,1.0,8372,Noon,6
+Jet Airways,Delhi,Cochin,10.333333333333334,1.0,15851,Night,5
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4050,Morning,5
+Jet Airways,Banglore,New Delhi,5.25,1.0,9134,Morning,3
+IndiGo,Delhi,Cochin,5.083333333333333,1.0,9165,Night,6
+Jet Airways,Delhi,Cochin,17.333333333333332,1.0,10577,Evening,6
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,5069,Morning,5
+Jet Airways,Delhi,Cochin,23.166666666666668,2.0,12819,Noon,6
+Jet Airways,Banglore,New Delhi,12.333333333333334,1.0,16736,Morning,3
+IndiGo,Kolkata,Banglore,4.916666666666667,1.0,9376,Morning,5
+Air India,Delhi,Cochin,8.333333333333334,2.0,13276,Morning,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Evening,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3749,Night,6
+Air India,Delhi,Cochin,11.25,1.0,9929,Morning,5
+Air Asia,Delhi,Cochin,5.5,1.0,6152,Morning,6
+IndiGo,Delhi,Cochin,6.666666666666667,1.0,14871,Morning,3
+Multiple carriers,Delhi,Cochin,6.25,1.0,17267,Morning,3
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,4268,Noon,4
+Multiple carriers,Delhi,Cochin,7.25,1.0,7308,Evening,5
+Air India,Delhi,Cochin,2.833333333333333,0.0,5201,Morning,4
+Multiple carriers,Delhi,Cochin,14.083333333333334,1.0,11098,Night,3
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,6300,Evening,3
+Vistara,Kolkata,Banglore,16.083333333333332,1.0,8452,Evening,5
+Jet Airways,Kolkata,Banglore,7.916666666666667,1.0,10844,Morning,5
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4282,Night,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,4174,Noon,5
+GoAir,Delhi,Cochin,7.583333333333333,1.0,5628,Morning,3
+IndiGo,Banglore,New Delhi,2.9166666666666665,0.0,6860,Morning,3
+Jet Airways,Delhi,Cochin,22.08333333333333,1.0,10262,Evening,6
+IndiGo,Delhi,Cochin,16.083333333333332,1.0,8784,Night,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,5
+Air Asia,Banglore,Delhi,2.75,0.0,3383,Noon,5
+Air India,Mumbai,Hyderabad,1.5,0.0,3100,Noon,5
+Jet Airways,Delhi,Cochin,21.58333333333333,2.0,13292,Evening,6
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,5
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,10844,Evening,5
+Multiple carriers,Delhi,Cochin,7.333333333333333,1.0,13542,Evening,3
+Vistara,Banglore,Delhi,2.75,0.0,5613,Evening,4
+Vistara,Kolkata,Banglore,26.58333333333333,1.0,7770,Evening,4
+Jet Airways,Delhi,Cochin,7.5,1.0,14714,Evening,6
+Jet Airways,Delhi,Cochin,10.166666666666666,1.0,14714,Evening,6
+SpiceJet,Kolkata,Banglore,7.25,1.0,8479,Noon,6
+Jet Airways,Kolkata,Banglore,19.08333333333333,1.0,11134,Evening,3
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,4030,Evening,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,6
+Jet Airways,Delhi,Cochin,19.0,2.0,13882,Morning,6
+Jet Airways,Kolkata,Banglore,14.5,1.0,11467,Evening,4
+IndiGo,Banglore,Delhi,3.0,0.0,4990,Evening,4
+Vistara,Delhi,Cochin,2.9166666666666665,0.0,6741,Noon,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Evening,4
+Jet Airways,Delhi,Cochin,28.0,1.0,12373,Noon,5
+GoAir,Banglore,Delhi,2.833333333333333,0.0,3398,Noon,5
+Jet Airways,Banglore,New Delhi,6.5,1.0,11297,Morning,3
+Jet Airways,Kolkata,Banglore,25.83333333333333,1.0,10844,Evening,5
+SpiceJet,Delhi,Cochin,5.25,1.0,6297,Morning,5
+Multiple carriers,Delhi,Cochin,10.5,1.0,9001,Morning,6
+Air India,Chennai,Kolkata,2.25,0.0,4667,Noon,5
+Jet Airways,Banglore,New Delhi,7.666666666666667,1.0,27210,Evening,3
+Jet Airways,Delhi,Cochin,16.75,1.0,10262,Night,6
+Jet Airways,Banglore,New Delhi,6.666666666666667,1.0,12284,Morning,3
+IndiGo,Delhi,Cochin,14.75,1.0,6558,Morning,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,5515,Morning,3
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,6297,Night,3
+GoAir,Banglore,New Delhi,2.9166666666666665,0.0,5048,Morning,3
+Jet Airways,Kolkata,Banglore,12.166666666666666,1.0,12471,Evening,6
+Multiple carriers,Delhi,Cochin,15.166666666666666,1.0,6795,Morning,6
+SpiceJet,Banglore,Delhi,2.833333333333333,0.0,4885,Morning,4
+Jet Airways,Delhi,Cochin,24.75,1.0,15554,Evening,5
+Air India,Delhi,Cochin,16.083333333333332,1.0,7690,Evening,5
+Air India,Kolkata,Banglore,13.416666666666666,3.0,14015,Morning,5
+Multiple carriers,Delhi,Cochin,9.0,1.0,6093,Morning,6
+Multiple carriers,Delhi,Cochin,9.5,1.0,13377,Evening,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,4174,Evening,6
+Jet Airways,Kolkata,Banglore,22.166666666666668,1.0,14178,Morning,6
+IndiGo,Kolkata,Banglore,2.6666666666666665,0.0,4804,Evening,6
+SpiceJet,Kolkata,Banglore,5.25,1.0,4649,Noon,5
+Air India,Kolkata,Banglore,22.5,1.0,8366,Morning,5
+Air Asia,Delhi,Cochin,14.583333333333334,1.0,6152,Morning,5
+Multiple carriers,Delhi,Cochin,12.75,1.0,8888,Morning,5
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,4326,Morning,3
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,3383,Night,5
+Vistara,Delhi,Cochin,3.1666666666666665,0.0,8001,Morning,3
+Jet Airways,Delhi,Cochin,10.333333333333334,1.0,14714,Night,6
+Vistara,Kolkata,Banglore,11.666666666666666,1.0,9555,Morning,5
+Jet Airways,Delhi,Cochin,22.08333333333333,1.0,15554,Evening,5
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,4
+IndiGo,Delhi,Cochin,4.833333333333333,1.0,5912,Noon,5
+Vistara,Kolkata,Banglore,12.833333333333334,1.0,12312,Evening,3
+Multiple carriers,Delhi,Cochin,9.916666666666666,1.0,15411,Morning,3
+Jet Airways,Delhi,Cochin,21.666666666666668,2.0,13376,Morning,6
+Jet Airways,Kolkata,Banglore,21.08333333333333,1.0,10844,Evening,5
+GoAir,Banglore,Delhi,2.75,0.0,3419,Evening,5
+Jet Airways,Delhi,Cochin,5.333333333333333,1.0,15764,Night,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4077,Night,6
+Jet Airways,Delhi,Cochin,7.5,1.0,10262,Evening,6
+Jet Airways,Kolkata,Banglore,8.666666666666666,1.0,8586,Evening,5
+Vistara,Kolkata,Banglore,13.166666666666666,1.0,8610,Morning,6
+Multiple carriers,Delhi,Cochin,15.5,1.0,13377,Morning,6
+Jet Airways,Delhi,Cochin,11.0,1.0,14714,Morning,6
+Jet Airways,Kolkata,Banglore,13.5,1.0,11134,Evening,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Noon,4
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,4282,Night,5
+Air Asia,Delhi,Cochin,5.5,1.0,6151,Evening,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Evening,5
+Multiple carriers,Delhi,Cochin,11.5,1.0,13377,Noon,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,5
+IndiGo,Delhi,Cochin,16.25,1.0,6628,Morning,6
+Jet Airways,Banglore,Delhi,3.0,0.0,8541,Evening,6
+Jet Airways,Delhi,Cochin,27.75,1.0,16289,Noon,3
+Multiple carriers,Delhi,Cochin,8.0,1.0,9385,Noon,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Night,6
+GoAir,Delhi,Cochin,5.916666666666667,1.0,4106,Morning,4
+IndiGo,Delhi,Cochin,4.583333333333333,1.0,5054,Morning,5
+Air India,Delhi,Cochin,13.25,1.0,7174,Morning,5
+GoAir,Kolkata,Banglore,8.25,1.0,7335,Night,5
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,13067,Evening,5
+Jet Airways,Delhi,Cochin,23.166666666666668,2.0,15129,Noon,5
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,3100,Evening,6
+Multiple carriers,Delhi,Cochin,7.75,1.0,8535,Evening,4
+Jet Airways,Kolkata,Banglore,28.666666666666668,1.0,8529,Evening,6
+Jet Airways,Delhi,Cochin,27.0,2.0,13292,Morning,6
+IndiGo,Delhi,Cochin,9.5,1.0,6316,Evening,6
+Jet Airways,Banglore,Delhi,3.0,0.0,4544,Evening,4
+Jet Airways,Banglore,New Delhi,22.75,1.0,11087,Noon,3
+Air India,Kolkata,Banglore,19.416666666666668,2.0,17049,Morning,5
+Jet Airways,Delhi,Cochin,21.416666666666668,1.0,17024,Night,3
+Jet Airways,Mumbai,Hyderabad,8.333333333333334,2.0,23843,Morning,3
+Jet Airways,Kolkata,Banglore,23.33333333333333,1.0,10844,Evening,6
+Jet Airways,Delhi,Cochin,23.58333333333333,1.0,10262,Noon,6
+Air India,Mumbai,Hyderabad,1.5,0.0,3100,Noon,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Noon,4
+Multiple carriers,Delhi,Cochin,7.666666666666667,1.0,10877,Night,6
+Multiple carriers,Delhi,Cochin,11.0,1.0,9718,Morning,6
+IndiGo,Banglore,New Delhi,5.0,1.0,11873,Noon,3
+Air Asia,Delhi,Cochin,5.666666666666667,1.0,6853,Evening,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Night,4
+Jet Airways,Kolkata,Banglore,24.916666666666668,2.0,10118,Morning,6
+Multiple carriers,Delhi,Cochin,13.25,1.0,8266,Morning,5
+Jet Airways,Delhi,Cochin,21.58333333333333,2.0,13292,Evening,6
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,14388,Evening,5
+Air India,Delhi,Cochin,10.25,1.0,8372,Morning,6
+Multiple carriers,Delhi,Cochin,12.166666666666666,1.0,14848,Morning,6
+Air India,Mumbai,Hyderabad,13.75,1.0,11678,Morning,3
+Jet Airways,Delhi,Cochin,16.666666666666668,2.0,13882,Noon,6
+Multiple carriers,Delhi,Cochin,11.5,1.0,10877,Morning,6
+Multiple carriers,Delhi,Cochin,10.416666666666666,1.0,15135,Morning,3
+Vistara,Chennai,Kolkata,2.25,0.0,3687,Morning,5
+Multiple carriers,Delhi,Cochin,6.416666666666667,1.0,7242,Morning,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,8040,Morning,3
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3841,Night,6
+Jet Airways,Kolkata,Banglore,19.5,1.0,13044,Evening,6
+Jet Airways,Banglore,New Delhi,2.6666666666666665,0.0,7229,Evening,3
+Air India,Kolkata,Banglore,30.666666666666668,2.0,12723,Morning,6
+Jet Airways,Delhi,Cochin,10.0,1.0,14714,Morning,6
+Multiple carriers,Delhi,Cochin,7.5,1.0,7198,Evening,6
+Air India,Kolkata,Banglore,26.916666666666668,1.0,10623,Evening,5
+Vistara,Kolkata,Banglore,26.0,1.0,11682,Morning,3
+Jet Airways,Delhi,Cochin,27.166666666666668,2.0,13882,Morning,6
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Morning,5
+Air India,Delhi,Cochin,21.25,2.0,11228,Night,5
+IndiGo,Delhi,Cochin,15.666666666666666,1.0,6442,Morning,6
+Vistara,Kolkata,Banglore,16.25,1.0,7927,Morning,4
+Multiple carriers,Delhi,Cochin,10.5,1.0,10261,Morning,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3841,Noon,4
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,12649,Evening,3
+Jet Airways,Banglore,New Delhi,22.58333333333333,1.0,17471,Evening,3
+Air India,Mumbai,Hyderabad,1.25,0.0,5462,Evening,3
+GoAir,Kolkata,Banglore,7.583333333333333,1.0,8855,Evening,5
+Jet Airways,Delhi,Cochin,5.583333333333333,1.0,14714,Night,6
+Jet Airways,Kolkata,Banglore,16.0,1.0,14571,Evening,6
+Air India,Banglore,Delhi,2.833333333333333,0.0,6961,Evening,6
+Jet Airways,Banglore,Delhi,3.0,0.0,4030,Morning,5
+IndiGo,Delhi,Cochin,5.0,1.0,6593,Evening,6
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,3175,Noon,3
+Multiple carriers,Delhi,Cochin,7.5,1.0,7888,Evening,5
+Jet Airways,Kolkata,Banglore,12.25,1.0,8586,Evening,5
+Vistara,Kolkata,Banglore,6.416666666666667,1.0,8610,Evening,6
+IndiGo,Chennai,Kolkata,2.333333333333333,0.0,3850,Morning,5
+Jet Airways,Kolkata,Banglore,28.08333333333333,1.0,10703,Evening,5
+Air India,Kolkata,Banglore,30.5,3.0,8607,Evening,4
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Evening,5
+Jet Airways,Delhi,Cochin,24.83333333333333,2.0,13882,Noon,6
+Jet Airways,Delhi,Cochin,7.5,1.0,15554,Noon,5
+IndiGo,Delhi,Cochin,11.25,1.0,6171,Night,3
+Jet Airways,Delhi,Cochin,7.5,1.0,10262,Noon,6
+Jet Airways,Delhi,Cochin,22.0,2.0,10919,Noon,6
+Multiple carriers,Delhi,Cochin,11.5,1.0,13727,Noon,5
+Air Asia,Banglore,Delhi,2.75,0.0,3383,Noon,6
+SpiceJet,Chennai,Kolkata,2.333333333333333,0.0,6300,Evening,3
+Multiple carriers,Delhi,Cochin,12.5,1.0,9424,Noon,5
+Multiple carriers,Delhi,Cochin,11.5,1.0,13377,Noon,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Noon,3
+Multiple carriers,Delhi,Cochin,9.083333333333334,1.0,9646,Morning,6
+Air Asia,Banglore,Delhi,2.75,0.0,4483,Noon,5
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,5298,Morning,5
+Air India,Banglore,New Delhi,13.166666666666666,1.0,6046,Morning,3
+Air India,Delhi,Cochin,23.666666666666668,2.0,7090,Morning,3
+Air Asia,Banglore,Delhi,2.833333333333333,0.0,3383,Night,5
+SpiceJet,Banglore,Delhi,2.833333333333333,0.0,4423,Morning,5
+Jet Airways,Delhi,Cochin,22.58333333333333,1.0,10262,Noon,6
+Jet Airways,Delhi,Cochin,26.916666666666668,2.0,10368,Morning,6
+Multiple carriers,Delhi,Cochin,6.583333333333333,1.0,23533,Evening,3
+Jet Airways,Banglore,Delhi,2.75,0.0,7229,Morning,4
+IndiGo,Delhi,Cochin,6.916666666666667,1.0,5883,Evening,6
+IndiGo,Mumbai,Hyderabad,1.4166666666666667,0.0,2754,Evening,3
+Air India,Banglore,New Delhi,10.5,2.0,15119,Morning,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Night,3
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,13014,Morning,6
+IndiGo,Kolkata,Banglore,2.75,0.0,4148,Morning,3
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,10844,Morning,5
+IndiGo,Delhi,Cochin,15.666666666666666,1.0,11600,Morning,3
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,8040,Morning,3
+Jet Airways,Kolkata,Banglore,9.5,1.0,13626,Noon,6
+IndiGo,Kolkata,Banglore,4.416666666666667,1.0,3717,Evening,5
+Multiple carriers,Delhi,Cochin,10.5,1.0,11200,Morning,6
+Jet Airways,Delhi,Cochin,23.25,1.0,10262,Evening,6
+Air India,Mumbai,Hyderabad,1.25,0.0,3100,Evening,6
+Jet Airways,Banglore,New Delhi,10.666666666666666,1.0,14815,Noon,3
+Jet Airways,Kolkata,Banglore,19.25,1.0,14178,Noon,5
+IndiGo,Kolkata,Banglore,2.5,0.0,4804,Noon,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,6982,Morning,3
+IndiGo,Banglore,Delhi,2.75,0.0,4990,Morning,4
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,4050,Night,3
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,3210,Evening,5
+Air India,Kolkata,Banglore,25.75,1.0,8891,Morning,5
+Air India,Kolkata,Banglore,30.166666666666668,2.0,11883,Morning,5
+Jet Airways,Kolkata,Banglore,7.25,1.0,9358,Morning,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,8040,Morning,5
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2175,Noon,6
+Jet Airways,Delhi,Cochin,23.83333333333333,2.0,15129,Evening,5
+Jet Airways,Kolkata,Banglore,9.833333333333334,1.0,13626,Morning,6
+Vistara,Chennai,Kolkata,2.333333333333333,0.0,11982,Evening,6
+Jet Airways,Delhi,Cochin,22.916666666666668,2.0,12647,Morning,3
+Jet Airways,Kolkata,Banglore,12.25,1.0,12681,Evening,4
+Air India,Delhi,Cochin,38.25,2.0,9968,Morning,6
+Jet Airways,Kolkata,Banglore,17.083333333333332,1.0,13044,Evening,6
+Vistara,Mumbai,Hyderabad,17.75,1.0,12395,Noon,3
+Jet Airways,Kolkata,Banglore,26.166666666666668,1.0,11467,Evening,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4077,Night,5
+SpiceJet,Kolkata,Banglore,2.333333333333333,0.0,3841,Night,6
+Jet Airways,Banglore,New Delhi,24.58333333333333,1.0,11087,Morning,3
+IndiGo,Kolkata,Banglore,2.75,0.0,4462,Morning,3
+Air India,Kolkata,Banglore,9.833333333333334,2.0,9258,Noon,4
+Jet Airways,Mumbai,Hyderabad,1.4166666666666667,0.0,4995,Morning,6
+IndiGo,Delhi,Cochin,10.5,1.0,7503,Noon,5
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,10877,Noon,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,3210,Evening,6
+Air India,Banglore,Delhi,2.75,0.0,5228,Morning,4
+Jet Airways,Kolkata,Banglore,13.333333333333334,1.0,8529,Evening,6
+Multiple carriers Premium economy,Delhi,Cochin,7.333333333333333,1.0,11269,Morning,3
+Air India,Mumbai,Hyderabad,1.3333333333333333,0.0,2050,Evening,3
+Vistara,Banglore,New Delhi,27.75,1.0,6590,Morning,3
+Multiple carriers,Delhi,Cochin,10.666666666666666,1.0,15147,Morning,3
+Jet Airways,Kolkata,Banglore,19.166666666666668,1.0,13584,Evening,5
+Air India,Kolkata,Banglore,17.416666666666668,2.0,12723,Morning,6
+Jet Airways,Delhi,Cochin,22.0,2.0,13376,Noon,6
+Jet Airways,Delhi,Cochin,9.0,1.0,14714,Morning,6
+Jet Airways,Delhi,Cochin,13.833333333333334,2.0,13376,Noon,6
+IndiGo,Banglore,Delhi,3.0,0.0,4823,Evening,4
+Jet Airways,Delhi,Cochin,27.0,2.0,13292,Morning,6
+Jet Airways,Delhi,Cochin,10.333333333333334,1.0,14714,Night,6
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,6985,Noon,3
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4423,Morning,4
+Jet Airways,Delhi,Cochin,13.5,2.0,10368,Morning,6
+Air India,Delhi,Cochin,38.0,3.0,15586,Morning,3
+Air India,Delhi,Cochin,28.83333333333333,2.0,13381,Noon,6
+Air India,Delhi,Cochin,12.75,1.0,5642,Evening,3
+Air India,Banglore,New Delhi,2.75,0.0,4441,Morning,3
+Vistara,Banglore,Delhi,2.583333333333333,0.0,4878,Evening,6
+Jet Airways,Delhi,Cochin,19.916666666666668,2.0,15129,Night,5
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Morning,5
+SpiceJet,Kolkata,Banglore,2.5,0.0,3873,Evening,5
+Air Asia,Kolkata,Banglore,2.5,0.0,4384,Evening,3
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,1965,Morning,5
+Jet Airways,Delhi,Cochin,22.0,1.0,14053,Evening,3
+Air India,Kolkata,Banglore,19.5,2.0,4647,Morning,4
+SpiceJet,Mumbai,Hyderabad,1.3333333333333333,0.0,2753,Noon,3
+Jet Airways,Delhi,Cochin,10.916666666666666,1.0,5963,Evening,3
+IndiGo,Delhi,Cochin,6.333333333333333,1.0,6412,Evening,6
+IndiGo,Mumbai,Hyderabad,1.5833333333333333,0.0,2227,Evening,6
+Jet Airways,Kolkata,Banglore,25.75,1.0,13941,Evening,5
+Multiple carriers,Delhi,Cochin,6.5,1.0,7888,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5769,Noon,6
+Multiple carriers,Delhi,Cochin,7.666666666666667,1.0,9103,Night,5
+Jet Airways,Kolkata,Banglore,6.583333333333333,1.0,13469,Evening,6
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,5678,Evening,6
+IndiGo,Kolkata,Banglore,4.833333333333333,1.0,5069,Morning,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,4823,Morning,4
+GoAir,Banglore,Delhi,2.9166666666666665,0.0,4632,Morning,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4174,Evening,4
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,4804,Evening,5
+Jet Airways,Mumbai,Hyderabad,1.5,0.0,8040,Morning,6
+SpiceJet,Kolkata,Banglore,2.5,0.0,3873,Evening,6
+Air India,Banglore,New Delhi,16.083333333333332,2.0,11474,Morning,3
+Air Asia,Delhi,Cochin,14.5,1.0,6152,Morning,4
+Jet Airways,Kolkata,Banglore,21.916666666666668,1.0,9663,Noon,5
+Jet Airways,Kolkata,Banglore,14.416666666666666,1.0,10844,Evening,5
+IndiGo,Delhi,Cochin,5.333333333333333,1.0,6147,Evening,6
+Air India,Mumbai,Hyderabad,1.5,0.0,3100,Noon,6
+Jet Airways,Delhi,Cochin,5.0,1.0,10262,Noon,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,3943,Night,4
+SpiceJet,Mumbai,Hyderabad,1.5,0.0,2385,Noon,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,5
+SpiceJet,Chennai,Kolkata,2.25,0.0,3859,Morning,6
+Jet Airways,Delhi,Cochin,7.333333333333333,2.0,18804,Noon,6
+Jet Airways,Delhi,Cochin,3.25,0.0,7202,Noon,5
+Jet Airways,Delhi,Cochin,21.0,1.0,15764,Evening,3
+Multiple carriers,Delhi,Cochin,8.0,1.0,18286,Noon,3
+Air India,Kolkata,Banglore,22.5,1.0,8891,Morning,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,4668,Morning,5
+Multiple carriers,Delhi,Cochin,8.666666666666666,1.0,9794,Morning,5
+Air India,Delhi,Cochin,11.25,1.0,8372,Morning,6
+IndiGo,Banglore,Delhi,2.833333333333333,0.0,4823,Morning,4
+Air India,Delhi,Cochin,37.333333333333336,2.0,10493,Morning,5
+Jet Airways,Banglore,Delhi,3.083333333333333,0.0,4544,Evening,4
+Multiple carriers,Delhi,Cochin,10.0,1.0,8309,Morning,5
+Jet Airways,Delhi,Cochin,26.166666666666668,1.0,12898,Night,5
+Jet Airways,Kolkata,Banglore,16.75,1.0,14151,Evening,5
+Multiple carriers,Delhi,Cochin,6.25,1.0,15898,Noon,5
+Jet Airways,Delhi,Cochin,33.25,2.0,10929,Evening,3
+SpiceJet,Kolkata,Banglore,2.5,0.0,5515,Morning,3
+IndiGo,Delhi,Cochin,5.25,1.0,12214,Morning,3
+IndiGo,Kolkata,Banglore,2.583333333333333,0.0,5618,Noon,3
+IndiGo,Delhi,Cochin,5.0,1.0,5073,Evening,3
+Air India,Banglore,Delhi,2.833333333333333,0.0,6121,Noon,4
+Multiple carriers,Delhi,Cochin,6.5,1.0,7530,Evening,6
+Jet Airways,Delhi,Cochin,15.166666666666666,2.0,11507,Evening,6
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,7268,Noon,6
+Multiple carriers,Delhi,Cochin,12.0,1.0,12537,Morning,3
+Multiple carriers,Delhi,Cochin,10.25,1.0,12524,Morning,6
+Air India,Banglore,New Delhi,28.416666666666668,2.0,20999,Morning,3
+Air India,Kolkata,Banglore,25.916666666666668,2.0,6117,Morning,6
+Air Asia,Banglore,Delhi,2.75,0.0,4483,Noon,5
+Jet Airways,Banglore,Delhi,3.0,0.0,7229,Morning,5
+IndiGo,Delhi,Cochin,5.75,1.0,5775,Evening,6
+Jet Airways,Delhi,Cochin,28.0,1.0,12898,Noon,5
+Air Asia,Delhi,Cochin,10.416666666666666,1.0,6451,Evening,6
+Jet Airways,Delhi,Cochin,9.0,1.0,11924,Morning,5
+Air India,Delhi,Cochin,12.75,1.0,7480,Evening,6
+Jet Airways,Delhi,Cochin,11.916666666666666,1.0,10262,Morning,6
+IndiGo,Kolkata,Banglore,2.5,0.0,5224,Noon,6
+Jet Airways,Banglore,Delhi,2.75,0.0,4030,Morning,5
+Air India,Mumbai,Hyderabad,27.166666666666668,2.0,13169,Morning,3
+Air India,Delhi,Cochin,8.333333333333334,2.0,13486,Morning,5
+IndiGo,Delhi,Cochin,8.166666666666666,1.0,7640,Noon,5
+Jet Airways,Kolkata,Banglore,14.083333333333334,1.0,13941,Evening,5
+Vistara,Banglore,Delhi,2.833333333333333,0.0,5403,Evening,4
+IndiGo,Mumbai,Hyderabad,1.5,0.0,4049,Morning,6
+Air India,Delhi,Cochin,10.25,1.0,15284,Morning,3
+Jet Airways,Kolkata,Banglore,6.083333333333333,1.0,10844,Evening,5
+Multiple carriers,Delhi,Cochin,7.333333333333333,1.0,9794,Noon,5
+Air Asia,Delhi,Cochin,14.5,1.0,7452,Morning,4
+IndiGo,Delhi,Cochin,14.666666666666666,2.0,6494,Morning,3
+Jet Airways,Delhi,Cochin,20.166666666666668,1.0,10262,Night,6
+Multiple carriers,Delhi,Cochin,9.333333333333334,1.0,7740,Noon,6
+Jet Airways,Kolkata,Banglore,23.916666666666668,1.0,10031,Evening,3
+Jet Airways,Kolkata,Banglore,22.75,1.0,14151,Evening,5
+IndiGo,Banglore,Delhi,2.9166666666666665,0.0,3419,Night,4
+Jet Airways,Delhi,Cochin,7.083333333333333,2.0,15544,Morning,5
+IndiGo,Mumbai,Hyderabad,1.5,0.0,2437,Evening,5
+IndiGo,Banglore,New Delhi,4.916666666666667,1.0,9694,Noon,3
+Vistara,Banglore,Delhi,2.6666666666666665,0.0,4878,Morning,5
+Multiple carriers,Delhi,Cochin,7.583333333333333,1.0,9211,Noon,5
+Jet Airways,Kolkata,Banglore,12.25,1.0,13731,Evening,5
+Jet Airways,Banglore,Delhi,2.9166666666666665,0.0,5769,Noon,6
+IndiGo,Banglore,New Delhi,2.833333333333333,0.0,6144,Night,3
+Air India,Banglore,New Delhi,25.166666666666668,1.0,5092,Noon,3
+Air Asia,Delhi,Cochin,14.416666666666666,1.0,6151,Evening,3
+Air India,Banglore,Delhi,2.833333333333333,0.0,5228,Noon,4
+Air Asia,Banglore,New Delhi,2.833333333333333,0.0,4284,Morning,3
+Air India,Delhi,Cochin,27.666666666666668,1.0,8635,Night,3
+Multiple carriers,Delhi,Cochin,12.5,1.0,7888,Noon,5
+Multiple carriers,Delhi,Cochin,11.75,1.0,8266,Morning,5
+Jet Airways,Kolkata,Banglore,19.5,1.0,9663,Evening,5
+Multiple carriers,Delhi,Cochin,9.5,1.0,13727,Noon,5
+Jet Airways,Banglore,New Delhi,7.5,1.0,7832,Morning,3
+Jet Airways,Kolkata,Banglore,27.58333333333333,1.0,9663,Morning,5
+SpiceJet,Kolkata,Banglore,2.583333333333333,0.0,3841,Morning,6
+Multiple carriers,Delhi,Cochin,15.333333333333334,1.0,7038,Morning,6
+SpiceJet,Kolkata,Banglore,2.4166666666666665,0.0,3841,Morning,5
+Jet Airways,Kolkata,Banglore,11.5,1.0,14151,Morning,5
+Jet Airways,Kolkata,Banglore,24.166666666666668,1.0,14151,Morning,5
+Jet Airways,Delhi,Cochin,7.333333333333333,2.0,15812,Noon,6
