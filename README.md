@@ -1,1 +1,2 @@
 ## Flight Price Prediction App
+A machine learning-powered web application that predicts flight prices based on various factors like airline, route, timing, and seasonality. Built with Flask and scikit-learn.
